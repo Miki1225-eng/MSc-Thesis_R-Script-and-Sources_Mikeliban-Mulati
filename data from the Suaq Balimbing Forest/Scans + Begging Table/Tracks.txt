@@ -1,0 +1,28 @@
+FN 1 -- no 
+FN 2 -- no  
+FN 3 -- no 
+FN 4A -- no 
+FN 4B -- yes 
+FN 5A -- no -- indentical with 4A 
+FN 5B -- yes -- identical with 4B
+FN 6 -- no
+FN 7 -- no  
+FN 8 -- no  
+FN 9 -- yes
+FN 10 -- yes
+FN 11A -- no
+FN 12 -- no
+FN 13 -- yes
+FN 14 -- yes -- identical with 13
+FN 16 -- no
+FN 17 -- no -- same as 16
+FN 18A -- no
+FN 18B -- no -- same as 18A
+FN 19A -- no
+FN 19B -- yes 
+FN 21A -- no
+FN 21B -- no -- same as 21A
+FN 22A -- no 
+FN 22B -- no -- same as 22A
+FN 23A --? -- entirely in Indonesian 
+FN 23B -- ? -- entirely in Indonesian
