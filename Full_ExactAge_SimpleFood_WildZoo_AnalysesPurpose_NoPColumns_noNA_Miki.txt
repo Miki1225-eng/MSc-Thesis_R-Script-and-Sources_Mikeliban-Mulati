@@ -1,0 +1,1278 @@
+ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Species_Item_Simple	RelationtoB	ProcessingSteps_Complexity	Success	Site
+1	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	11:57	AAB_FR	mother	1	no	wild
+2	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	11:58	AAB_FR	mother	1		wild
+3	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	15:47	AAB_FR	mother	1	no	wild
+4	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	09:04	ADDG_LV	mother	0	yes	wild
+5	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	09:05	ADDG_LV	mother	0	yes	wild
+6	2302	15/03/2018	10.55	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	15:27	ADDG_LV	mother	0	yes	wild
+7	993	04/06/2013	10.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	11:18	AJK_VE	mother	4		wild
+8	1334	09/05/2014	11.47	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	16:47	AKAR_LV	mother	0	no	wild
+9	1377	22/09/2014	10.77	01/08/2012	Frankie	2.1	2	male	Friska	Friska	16:32	AKAR_LV	mother	0		wild
+10	1383	14/10/2014	11.03	01/10/2012	Dalia	2.0	2	female	Dodi	Dodi	10:03	AKAR_LV	mother	0	no	wild
+11	1384	14/10/2014	11.03	01/10/2012	Dalia	2.0	2	female	Dodi	Dodi	10:01	AKAR_LV	mother	0	no	wild
+12	1385	15/10/2014	7.10	01/10/2012	Dalia	2.0	2	female	Dodi	Dodi	12:43	AKAR_LV	mother	0	yes	wild
+13	2103	03/09/2017	11.98	01/11/2014	Eden	2.8	3	female	Ellie	Ellie	13:53	AKAR_LV	mother	0		wild
+14	2113	07/09/2017	10.90	01/09/2014	Amor	3.0	3	male	Alice	Alice	14:06	AKAR_VE	mother	4		wild
+15	1076	21/08/2013	11.03	01/08/2012	Frankie	1.1	1	male	Friska	Friska	09:05	AKAR_VE	mother	4	yes	wild
+16	1369	02/09/2014	12.20	01/04/2012	Cinnamon	2.4	2.5	female	Cissy	Cissy	14:48	AKAR_NA	mother			wild
+17	2228	02/02/2018	11.27	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	13:21	AKAR_NA	mother		no	wild
+18	1267	26/02/2014	11.40	01/01/2005	Fredy	9.2	9	male	Friska	Friska	14:52	AKAR_VE	mother	4	no	wild
+19	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	14:37	AKAR_VE	mother	4	no	wild
+20	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:14	AKAR_LV	mother	0		wild
+21	1438	09/02/2015	11.33	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	15:16	AKAR_LV	mother	0	no	wild
+22	2388	03/06/2018	5.27	01/07/2010	Lois	7.9	8	male	Lisa	Lisa	10:40	AKKT_LV	mother	1	yes	wild
+23	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:04	APD_LV	mother	0		wild
+24	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:57	APD_LV	mother	0	no	wild
+25	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	14:21	APD_LV	mother	0	yes	wild
+26	1318	05/04/2014	12.70	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	13:44	APKS_LV	mother	0	yes	wild
+27	1762	03/02/2017	11.92	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	17:39	APKS_LV	mother	0	yes	wild
+28	2364	20/05/2018	12.00	01/11/2014	Eden	3.6	3.5	female	Ellie	Ellie	12:41	APKS_LV	mother	0	yes	wild
+29	2364	20/05/2018	12.00	01/11/2014	Eden	3.6	3.5	female	Ellie	Ellie	12:42	APKS_LV	mother	0	no	wild
+30	826	13/02/2011	10.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	08:12	APKS_VE	mother	1	no	wild
+31	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	09:12	APKS_VE	mother	1	no	wild
+32	1742	29/01/2017	11.47	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	12:10	APKS_VE	mother	1	yes	wild
+33	734	07/02/2011	1.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	15:55	APKSB_LV	mother	0	no	wild
+34	1272	04/03/2014	10.70	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	09:20	APKSB_VE	mother	1	no	wild
+35	1353	11/06/2014	1.13	01/07/2010	Lois	3.9	4	male	Lisa	Lisa	17:09	APKSB_VE	mother	1		wild
+36	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	10:58	APLO_LV	mother	0	no	wild
+37	2569	27/01/2019	12.20	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	11:14	APLO_VE	mother	1	no	wild
+38	1784	09/02/2017	12.17	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	16:42	APLO_LV	mother	0	yes	wild
+39	2113	07/09/2017	10.90	01/09/2014	Amor	3.0	3	male	Alice	Alice	17:28	APLS_FR	mother	1	yes	wild
+40	755	16/02/2011	10.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	14:46	APSB_LV	mother	0	no	wild
+41	1314	03/04/2014	12.18	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	14:53	APSB_VE	mother	1	no	wild
+42	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	11:54	ASDK_VE	mother	4	no	wild
+43	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	11:54	ASDK_VE	mother	4		wild
+44	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	11:55	ASDK_VE	mother	4	yes	wild
+45	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	12:12	ASDK_VE	mother	4	no	wild
+46	1742	29/01/2017	11.47	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	11:39	ASDK_VE	mother	4		wild
+47	1742	29/01/2017	11.47	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	11:53	ASDK_VE	mother	4	yes	wild
+48	1742	29/01/2017	11.47	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	12:01	ASDK_VE	mother	4	yes	wild
+49	1754	01/02/2017	11.70	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	14:33	ASDK_VE	mother	4	yes	wild
+50	1754	01/02/2017	11.70	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	14:40	ASDK_VE	mother	4	yes	wild
+51	2216	18/01/2018	0.13	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	13:18	ASDK_VE	mother	4	yes	wild
+52	2505	29/10/2018	9.80	01/07/2010	Lois	8.3	8.5	male	Lisa	Lisa	07:16	ASDK_VE	mother	4	no	wild
+53	1005	10/06/2013	9.53	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	14:27	ASK_FR	mother	3		wild
+54	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:18	ASK_LV	mother	0	no	wild
+55	1081	24/08/2013	11.50	01/08/2012	Frankie	1.1	1	male	Friska	Friska	11:43	ASK_LV	mother	0	yes	wild
+56	1081	24/08/2013	11.50	01/08/2012	Frankie	1.1	1	male	Friska	Friska	17:20	ASK_LV	mother	0	yes	wild
+57	1148	29/10/2013	4.10	01/04/2012	Cinnamon	1.6	1.5	female	Cissy	Cissy	14:23	ASK_LV	mother	0	yes	wild
+58	1367	01/09/2014	10.20	01/04/2012	Cinnamon	2.4	2.5	female	Cissy	Cissy	16:14	ASK_LV	mother	0		wild
+59	1428	04/02/2015	12.02	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	17:05	ASK_LV	mother	0	no	wild
+60	1428	04/02/2015	12.02	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	17:07	ASK_LV	mother	0	no	wild
+61	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:12	ASK_VE	mother	1		wild
+62	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:24	ASK_VE	mother	1		wild
+63	766	12/02/2011	13.00	01/01/2005	Fredy	6.1	6	male	Friska	Friska	10:35	ASK_VE	mother	1	no	wild
+64	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	10:55	ASK_VE	mother	1	no	wild
+65	1024	17/06/2013	4.80	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:22	ASK_VE	mother	1		wild
+66	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:48	ASK_VE	mother	1	no	wild
+67	1029	19/06/2013	11.25	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:41	ASK_VE	mother	1	yes	wild
+68	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	15:28	ASK_VE	mother	1	yes	wild
+69	1081	24/08/2013	11.50	01/01/2005	Fredy	8.6	8.5	male	Friska	Friska	17:39	ASK_VE	mother	1	yes	wild
+70	1242	29/01/2014	12.13	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	16:13	ASK_VE	mother	1	yes	wild
+71	1242	29/01/2014	12.13	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	16:14	ASK_VE	mother	1	yes	wild
+72	1221	04/02/2014	11.97	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	17:30	ASK_VE	mother	1	no	wild
+73	1302	24/03/2014	11.80	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	16:11	ASK_VE	mother	1	yes	wild
+74	1326	04/05/2014	8.00	01/07/2010	Lois	3.8	4	male	Lisa	Lisa	12:39	ASK_VE	mother	1	yes	wild
+75	1688	24/11/2016	11.43	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	15:48	ASK_VE	mother	1	no	wild
+76	1786	10/02/2017	12.23	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	16:22	ASK_VE	mother	1		wild
+77	1839	26/02/2017	10.80	01/04/2012	Cinnamon	4.9	5	female	Cissy	Cissy	08:40	ASK_VE	mother	1	yes	wild
+78	1997	22/06/2017	11.38	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	15:29	ASK_VE	mother	1	no	wild
+79	2015	02/07/2017	11.93	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	15:54	ASK_VE	mother	1		wild
+80	2020	03/07/2017	12.70	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	14:51	ASK_VE	mother	1		wild
+81	2025	06/07/2017	11.90	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	11:43	ASK_VE	mother	1	no	wild
+82	2026	06/07/2017	11.87	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	11:42	ASK_VE	mother	1		wild
+83	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	07:40	ASK_VE	mother	1	no	wild
+84	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	07:40	ASK_VE	mother	1	no	wild
+85	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:55	ASK_LV	mother	0	yes	wild
+86	1430	05/02/2015	10.87	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	07:21	ASK_LV	mother	0	no	wild
+87	1793	11/02/2017	12.63	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	07:18	ASK_LV	mother	0	no	wild
+88	1024	17/06/2013	4.80	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:06	AT_VE	mother	4	yes	wild
+89	1024	17/06/2013	4.80	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:48	AT_VE	mother	4		wild
+90	1024	17/06/2013	4.80	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:53	AT_VE	mother	4		wild
+91	1985	14/06/2017	11.30	01/08/2012	Frankie	4.9	5	male	Friska	Friska	13:52	ATB_VE	mother	4	yes	wild
+92	1985	14/06/2017	11.30	01/08/2012	Frankie	4.9	5	male	Friska	Friska	13:53	ATB_VE	mother	4		wild
+93	2017	02/07/2017	0.80	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	15:51	ATB_VE	mother	4	no	wild
+94	2028	07/07/2017	11.53	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	15:51	ATB_VE	mother	4		wild
+95	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	16:10	ATPS_VE	mother	4	no	wild
+96	1123	09/10/2013	11.40	01/04/2013	Simba	0.5	0.5	male	Sarabi	Sarabi	10:40	BNGPR_FL	mother	1		wild
+97	1375	20/09/2014	11.53	01/08/2012	Frankie	2.1	2	male	Friska	Friska	16:45	BNGPR_FR	mother	2	yes	wild
+98	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	09:35	BSG_BK	mother	2	no	wild
+99	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	10:01	BSG_BK	mother	2	yes	wild
+100	2472	04/10/2018	9.93	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	10:37	BSG_BK	mother	2	no	wild
+101	2472	04/10/2018	9.93	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	11:00	BSG_BK	mother	2	yes	wild
+102	2472	04/10/2018	9.93	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	11:36	BSG_BK	mother	2	yes	wild
+103	2489	08/10/2018	10.77	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	07:21	BSG_BK	mother	2	no	wild
+104	2489	08/10/2018	10.77	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	08:23	BSG_BK	mother	2	no	wild
+105	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	11:28	BSG_FR	mother	3	no	wild
+106	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	11:37	BSG_FR	mother	3	yes	wild
+107	1316	04/04/2014	11.95	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	17:11	BSG_FR	mother	3	no	wild
+108	1316	04/04/2014	11.95	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	17:23	BSG_FR	mother	3	no	wild
+109	1973	10/06/2017	11.63	01/08/2012	Frankie	4.9	5	male	Friska	Friska	08:17	CATCH	mother	3		wild
+110	2478	07/07/2018	10.07	01/04/2012	Cinnamon	6.3	6.5	female	Cissy	Cissy	09:44	CATCH	mother	3	no	wild
+111	1275	09/03/2014	10.67	01/01/2001	Lilly	13.2	13	female	Lisa	Lisa	10:47	CMG_FR	mother	5	no	wild
+112	1275	09/03/2014	10.67	01/01/2001	Lilly	13.2	13	female	Lisa	Lisa	11:17	CMG_FR	mother	5	yes	wild
+113	1275	09/03/2014	10.67	01/01/2001	Lilly	13.2	13	female	Lisa	Lisa	11:21	CMG_FR	mother	5		wild
+114	1277	09/03/2014	11.85	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	17:48	CMG_FR	mother	5		wild
+115	1277	09/03/2014	11.85	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	18:14	CMG_FR	mother	5		wild
+116	1300	23/03/2014	11.43	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	08:28	CMG_FR	mother	5		wild
+117	1325	04/05/2014	7.93	01/07/2010	Lois	3.8	4	male	Lisa	Lisa	17:14	CMG_FR	mother	5	no	wild
+118	1326	04/05/2014	8.00	01/07/2010	Lois	3.8	4	male	Lisa	Lisa	17:13	CMG_FR	mother	5	no	wild
+119	1334	09/05/2014	11.47	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	08:20	CMG_FR	mother	5	no	wild
+120	1334	09/05/2014	11.47	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	14:07	CMG_FR	mother	5	yes	wild
+121	1336	10/05/2014	12.22	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	07:02	CMG_FR	mother	5	no	wild
+122	1336	10/05/2014	12.22	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	07:20	CMG_FR	mother	5		wild
+123	1336	10/05/2014	12.22	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	09:07	CMG_FR	mother	5		wild
+124	1344	22/05/2014	4.63	01/07/2010	Lois	3.9	4	male	Lisa	Lisa	16:57	CMG_FR	mother	5		wild
+125	1346	23/05/2014	11.62	01/07/2010	Lois	3.9	4	male	Lisa	Lisa	07:34	CMG_FR	mother	5		wild
+126	1346	23/05/2014	11.62	01/07/2010	Lois	3.9	4	male	Lisa	Lisa	15:35	CMG_FR	mother	5		wild
+127	1348	24/05/2014	10.15	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	13:53	CMG_FR	mother	5		wild
+128	1348	24/05/2014	10.15	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	14:09	CMG_FR	mother	5		wild
+129	1424	02/02/2015	7.92	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	17:53	CMG_FR	mother	5	no	wild
+130	1703	11/12/2016	10.17	01/07/2010	Lois	6.5	6.5	male	Lisa	Lisa	12:28	CMG_FR	mother	5	yes	wild
+131	1703	11/12/2016	10.17	01/07/2010	Lois	6.5	6.5	male	Lisa	Lisa	13:04	CMG_FR	mother	5		wild
+132	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	11:45	CMG_FR	mother	5	yes	wild
+133	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:40	CMG_FR	mother	5	yes	wild
+134	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:44	CMG_FR	mother	5	yes	wild
+135	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:47	CMG_FR	mother	5	yes	wild
+136	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	11:07	CMG_FR	mother	5	yes	wild
+137	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:15	CMG_FR	mother	5	yes	wild
+138	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	12:57	CMG_FR	mother	5		wild
+139	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	15:17	CMG_FR	mother	5	yes	wild
+140	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	03:22	CMG_FR	mother	5	yes	wild
+141	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	03:26	CMG_FR	mother	5	yes	wild
+142	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	03:29	CMG_FR	mother	5	yes	wild
+143	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	03:35	CMG_FR	mother	5	yes	wild
+144	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:23	CMG_FR	mother	5	no	wild
+145	2302	15/03/2018	10.55	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:06	CMG_FR	mother	5	yes	wild
+146	2302	15/03/2018	10.55	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:14	CMG_FR	mother	5	yes	wild
+147	2302	15/03/2018	10.55	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:54	CMG_FR	mother	5	no	wild
+148	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	06:44	CMG_FR	mother	5	yes	wild
+149	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:21	CMG_FR	mother	5	yes	wild
+150	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:24	CMG_FR	mother	5	yes	wild
+151	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:07	CMG_FR	mother	5	yes	wild
+152	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:01	CMG_FR	mother	5	yes	wild
+153	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:03	CMG_FR	mother	5	yes	wild
+154	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:06	CMG_FR	mother	5	yes	wild
+155	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:13	CMG_FR	mother	5	yes	wild
+156	2306	17/03/2018	11.45	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:57	CMG_FR	mother	5	yes	wild
+157	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:29	CMG_FR	mother	5	yes	wild
+158	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:37	CMG_FR	mother	5	yes	wild
+159	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:43	CMG_FR	mother	5	yes	wild
+160	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:23	CMG_FR	mother	5	yes	wild
+161	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:24	CMG_FR	mother	5	yes	wild
+162	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:06	CMG_FR	mother	5	yes	wild
+163	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:09	CMG_FR	mother	5	yes	wild
+164	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:11	CMG_FR	mother	5	yes	wild
+165	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:17	CMG_FR	mother	5	yes	wild
+166	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:32	CMG_FR	mother	5	yes	wild
+167	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:28	CMG_FR	mother	5	yes	wild
+168	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:44	CMG_FR	mother	5	yes	wild
+169	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:51	CMG_FR	mother	5	yes	wild
+170	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:59	CMG_FR	mother	5	yes	wild
+171	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:07	CMG_FR	mother	5	yes	wild
+172	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:09	CMG_FR	mother	5	yes	wild
+173	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:40	CMG_FR	mother	5	yes	wild
+174	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:44	CMG_FR	mother	5	yes	wild
+175	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:04	CMG_FR	mother	5	yes	wild
+176	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:08	CMG_FR	mother	5	yes	wild
+177	2351	08/05/2018	5.27	01/01/2013	Pepito	5.4	5.5	male	Piniata	Piniata	07:49	CMG_FR	mother	5	yes	wild
+178	2351	08/05/2018	5.27	01/01/2013	Pepito	5.4	5.5	male	Piniata	Piniata	07:50	CMG_FR	mother	5	yes	wild
+179	1231	07/02/2014	9.53	01/04/2013	Rendang	0.9	1	male	Raffi	Raffi	15:48	DEADWOOD	mother	3	yes	wild
+180	2005	25/06/2017	11.68	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	12:05	DEADWOOD	mother	3		wild
+181	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	08:30	DEADWOOD	mother	3	yes	wild
+182	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	08:59	DEADWOOD	mother	3	no	wild
+183	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	09:11	DEADWOOD	mother	3		wild
+184	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	09:12	DEADWOOD	mother	3		wild
+185	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	09:14	DEADWOOD	mother	3	no	wild
+186	2360	18/05/2018	8.77	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:09	DEADWOOD	mother	3	no	wild
+187	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	09:33	FISTFISHING	mother	2		wild
+188	755	16/02/2011	10.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	09:01	FISTFISHING	mother	2	no	wild
+189	1373	20/09/2014	2.73	01/08/2012	Frankie	2.1	2	male	Friska	Friska	16:19	GESBENG	mother	3	yes	wild
+190	1373	20/09/2014	2.73	01/08/2012	Frankie	2.1	2	male	Friska	Friska	16:33	GESBENG	mother	3	no	wild
+191	1377	22/09/2014	10.77	01/08/2012	Frankie	2.1	2	male	Friska	Friska	14:39	GESBENG	mother	3		wild
+192	1377	22/09/2014	10.77	01/08/2012	Frankie	2.1	2	male	Friska	Friska	15:16	GESBENG	mother	3	yes	wild
+193	1379	23/09/2014	11.47	01/08/2012	Frankie	2.1	2	male	Friska	Friska	09:32	GESBENG	mother	3	no	wild
+194	1379	23/09/2014	11.47	01/08/2012	Frankie	2.1	2	male	Friska	Friska	09:34	GESBENG	mother	3	yes	wild
+195	1379	23/09/2014	11.47	01/08/2012	Frankie	2.1	2	male	Friska	Friska	17:32	GESBENG	mother	3	yes	wild
+196	1003	09/06/2013	9.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	11:44	GLMB_LV	mother	0	yes	wild
+197	991	03/06/2013	5.80	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	14:49	GLMB_LV	mother	0	no	wild
+198	1981	12/06/2017	12.73	01/08/2012	Frankie	4.9	5	male	Friska	Friska	12:10	JAIR_FL	mother	0		wild
+199	1001	08/06/2013	10.00	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	12:11	ADDG_VE	mother	1	yes	wild
+200	1001	08/06/2013	10.00	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	14:47	KELINCI_VE	mother		no	wild
+201	2020	03/07/2017	12.70	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	07:48	KKCNG_FR	mother	3		wild
+202	2472	04/10/2018	9.93	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	08:26	KKCNG_FR	mother	3	no	wild
+203	1256	21/02/2014	8.13	01/07/2010	Lois	3.6	3.5	male	Lisa	Lisa	08:58	KULBT_FR	mother	1		wild
+204	1670	10/11/2016	10.53	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	08:55	MADU_IN	mother	4		wild
+205	1766	04/02/2017	10.57	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	15:14	MADU_IN	mother	4	no	wild
+206	1766	04/02/2017	10.57	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	15:22	MADU_IN	mother	4	no	wild
+207	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	12:06	MADU_KERINGAT_IN	mother	4		wild
+208	2558	23/12/2018	8.85	01/02/2016	Luther	2.9	3	male	Lilly	Lilly	14:25	MADU_KERINGAT_IN	mother	4		wild
+209	2558	23/12/2018	8.85	01/02/2016	Luther	2.9	3	male	Lilly	Lilly	14:30	MADU_KERINGAT_IN	mother	4	yes	wild
+210	2558	23/12/2018	8.85	01/02/2016	Luther	2.9	3	male	Lilly	Lilly	14:29	MADU_KERINGAT_IN	mother	4	yes	wild
+211	2558	23/12/2018	8.85	01/02/2016	Luther	2.9	3	male	Lilly	Lilly	14:32	MADU_KERINGAT_IN	mother	4	yes	wild
+212	2558	23/12/2018	8.85	01/02/2016	Luther	2.9	3	male	Lilly	Lilly	14:34	MADU_KERINGAT_IN	mother	4	yes	wild
+213	1211	30/01/2014	11.38	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:48	MDGB_FR	mother	1	yes	wild
+214	1211	30/01/2014	11.38	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	12:17	MDGB_FR	mother	1	yes	wild
+215	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	07:25	MDGB_FR	mother	1	no	wild
+216	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	11:59	MDGB_FR	mother	1	no	wild
+217	1221	04/02/2014	11.97	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	12:01	MDGB_FR	mother	1	no	wild
+218	2017	02/07/2017	0.80	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	17:19	MDGB_FR	mother	1	no	wild
+219	2029	08/07/2017	12.43	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	17:56	MDGB_FR	mother	1		wild
+220	2104	03/09/2017	11.90	01/11/2014	Eden	2.8	3	female	Ellie	Ellie	15:32	MDGB_FR	mother	1		wild
+221	1215	01/02/2014	11.72	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	08:17	MDGBR_FR	mother	1		wild
+222	1215	01/02/2014	11.72	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	17:26	MDGBR_FR	mother	1	no	wild
+223	2029	08/07/2017	12.43	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	17:56	MDGBR_FR	mother	1		wild
+224	1676	12/11/2016	10.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	15:05	MDGH_FR	mother	3	yes	wild
+225	1676	12/11/2016	10.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	15:05	MDGH_FR	mother	3	yes	wild
+226	1676	12/11/2016	10.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	15:23	MDGH_FR	mother	3	no	wild
+227	1676	12/11/2016	10.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	15:27	MDGH_FR	mother	3	no	wild
+228	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	12:56	MDGH_FR	mother	3		wild
+229	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	13:00	MDGH_FR	mother	3	no	wild
+230	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	13:50	MDGH_FR	mother	3	yes	wild
+231	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	13:54	MDGH_FR	mother	3	yes	wild
+232	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	13:53	MDGH_FR	mother	3	no	wild
+233	2021	04/07/2017	12.47	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	14:09	MDGH_FR	mother	3		wild
+234	2025	06/07/2017	11.90	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	10:37	MDGH_FR	mother	3		wild
+235	1682	15/11/2016	9.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	09:10	MDGK_FR	mother	4	no	wild
+236	1682	15/11/2016	9.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	09:19	MDGK_FR	mother	4	no	wild
+237	1682	15/11/2016	9.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	09:33	MDGK_FR	mother	4	yes	wild
+238	991	03/06/2013	5.80	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	12:34	MLK_FR	mother	2.35	yes	wild
+239	1029	19/06/2013	11.25	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:52	MLK_FR	mother	2.35	yes	wild
+240	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	17:39	MLK_FR	mother	2.35		wild
+241	1067	19/07/2013	11.23	01/07/2010	Lois	3.1	3	male	Lisa	Lisa	15:54	MLK_FR	mother	2.35	no	wild
+242	1981	12/06/2017	12.73	01/08/2012	Frankie	4.9	5	male	Friska	Friska	13:04	MLK_FR	mother	2.35		wild
+243	1981	12/06/2017	12.73	01/08/2012	Frankie	4.9	5	male	Friska	Friska	13:04	MLK_FR	mother	2.35		wild
+244	1981	12/06/2017	12.73	01/08/2012	Frankie	4.9	5	male	Friska	Friska	13:05	MLK_FR	mother	2.35		wild
+245	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	11:45	MLK_FR	mother	2.35	yes	wild
+246	742	10/02/2011	10.92	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	11:08	MLK_FR	mother	2.35		wild
+247	993	04/06/2013	10.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	06:29	MLK_FR	mother	2.35	no	wild
+248	1018	14/06/2013	11.57	01/08/2012	Frankie	0.9	1	male	Friska	Friska	17:20	MLK_FR	mother	2.35		wild
+249	1029	19/06/2013	11.25	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:47	MLK_FR	mother	2.35	yes	wild
+250	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	09:04	MLK_FR	mother	2.35	no	wild
+251	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	10:25	MLK_FR	mother	2.35	yes	wild
+252	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	08:59	MLK_FR	mother	2.35	yes	wild
+253	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	09:01	MLK_FR	mother	2.35	yes	wild
+254	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	09:06	MLK_FR	mother	2.35		wild
+255	747	12/02/2011	11.20	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	11:40	MLK_FR	mother	2.35	no	wild
+256	747	12/02/2011	11.20	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:03	MLK_FR	mother	2.35		wild
+257	1008	12/06/2013	8.87	01/08/2012	Frankie	0.9	1	male	Friska	Friska	15:44	MLK_FR	mother	2.35	yes	wild
+258	1020	15/06/2013	10.47	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:01	MLK_FR	mother	2.35	no	wild
+259	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	06:56	MLK_FR	mother	2.35		wild
+260	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	10:38	MLK_FR	mother	2.35	yes	wild
+261	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:50	MLK_FR	mother	2.35	no	wild
+262	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:11	MLK_FR	mother	2.35	yes	wild
+263	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:13	MLK_FR	mother	2.35	yes	wild
+264	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:14	MLK_FR	mother	2.35	no	wild
+265	1036	22/06/2013	12.33	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:14	MLK_FR	mother	2.35		wild
+266	1208	28/01/2014	12.55	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	07:06	MLK_FR	mother	2.35	no	wild
+267	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	16:43	MLK_FR	mother	2.35	yes	wild
+268	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	07:54	MLK_FR	mother	2.35	yes	wild
+269	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:09	MLK_FR	mother	2.35	no	wild
+270	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:11	MLK_FR	mother	2.35	yes	wild
+271	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	12:36	MLK_FR	mother	2.35	yes	wild
+272	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	13:16	MLK_FR	mother	2.35	yes	wild
+273	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	13:27	MLK_FR	mother	2.35	yes	wild
+274	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	18:13	MLK_FR	mother	2.35		wild
+275	1221	04/02/2014	11.97	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	12:50	MLK_FR	mother	2.35	yes	wild
+276	1283	12/03/2014	12.18	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	12:19	MLK_FR	mother	2.35	yes	wild
+277	1294	21/03/2014	5.40	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	09:07	MLK_FR	mother	2.35	no	wild
+278	1324	10/04/2014	10.80	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	10:02	MLK_FR	mother	2.35	no	wild
+279	1348	24/05/2014	10.15	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	13:26	MLK_FR	mother	2.35	yes	wild
+280	1377	22/09/2014	10.77	01/08/2012	Frankie	2.1	2	male	Friska	Friska	08:08	MLK_FR	mother	2.35	yes	wild
+281	1432	06/02/2015	11.47	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	07:52	MLK_FR	mother	2.35	no	wild
+282	1492	28/03/2015	12.03	01/11/2014	Eden	0.4	0.5	female	Ellie	Ellie	08:59	MLK_FR	mother	2.35	no	wild
+283	1793	11/02/2017	12.63	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	15:15	MLK_FR	mother	2.35	yes	wild
+284	1884	05/04/2017	12.07	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	10:55	MLK_FR	mother	2.35		wild
+285	2015	02/07/2017	11.93	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	09:40	MLK_FR	mother	2.35		wild
+286	2101	02/09/2017	7.97	01/11/2014	Eden	2.8	3	female	Ellie	Ellie	12:17	MLK_FR	mother	2.35	no	wild
+287	2101	02/09/2017	7.97	01/11/2014	Eden	2.8	3	female	Ellie	Ellie	12:19	MLK_FR	mother	2.35	no	wild
+288	2101	02/09/2017	7.97	01/11/2014	Eden	2.8	3	female	Ellie	Ellie	12:17	MLK_FR	mother	2.35	no	wild
+289	2101	02/09/2017	7.97	01/11/2014	Eden	2.8	3	female	Ellie	Ellie	12:19	MLK_FR	mother	2.35	no	wild
+290	2545	15/12/2018	6.90	01/08/2012	Frankie	6.4	6.5	male	Friska	Friska	11:37	MLK_FR	mother	2.35	yes	wild
+291	2545	15/12/2018	6.90	01/08/2012	Frankie	6.4	6.5	male	Friska	Friska	16:02	MLK_FR	mother	2.35	yes	wild
+292	1003	09/06/2013	9.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	08:35	MLK_FR	mother	2.35	yes	wild
+293	1081	24/08/2013	11.50	01/08/2012	Frankie	1.1	1	male	Friska	Friska	08:44	MLK_FR	mother	2.35	no	wild
+294	1081	24/08/2013	11.50	01/08/2012	Frankie	1.1	1	male	Friska	Friska	08:47	MLK_FR	mother	2.35	no	wild
+295	1434	07/02/2015	10.82	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	12:30	MLK_FR	mother	2.35		wild
+296	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	17:03	MLK_FR	mother	2.35	no	wild
+297	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:13	MNGH_FR	mother	3		wild
+298	1022	16/06/2013	5.67	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:30	MNGH_FR	mother	3	yes	wild
+299	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:45	MNGH_FR	mother	3		wild
+300	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:50	MNGH_FR	mother	3	no	wild
+301	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:04	MNGH_FR	mother	3	yes	wild
+302	1144	26/10/2013	11.33	01/07/2010	Lois	3.3	3.5	male	Lisa	Lisa	10:32	MNGH_FR	mother	3	no	wild
+303	1424	02/02/2015	7.92	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	11:18	MNGH_FR	mother	3	no	wild
+304	1426	03/02/2015	11.75	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	07:12	MNGH_FR	mother	3	no	wild
+305	1428	04/02/2015	12.02	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	09:29	MNGH_FR	mother	3	no	wild
+306	1428	04/02/2015	12.02	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	09:49	MNGH_FR	mother	3	no	wild
+307	1430	05/02/2015	10.87	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	12:26	MNGH_FR	mother	3	no	wild
+308	1432	06/02/2015	11.47	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	07:11	MNGH_FR	mother	3		wild
+309	1434	07/02/2015	10.82	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	07:30	MNGH_FR	mother	3	no	wild
+310	1436	08/02/2015	10.70	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	15:28	MNGH_FR	mother	3	no	wild
+311	1438	09/02/2015	11.33	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	14:44	MNGH_FR	mother	3	no	wild
+312	1731	26/01/2017	7.00	01/04/2012	Cinnamon	4.8	5	female	Cissy	Cissy	16:48	MNGH_FR	mother	3	yes	wild
+313	1742	29/01/2017	11.47	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	15:26	MNGH_FR	mother	3		wild
+314	999	07/06/2013	10.77	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	16:46	PKSKW_VE	mother	4	yes	wild
+315	999	07/06/2013	10.77	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	16:54	PKSKW_VE	mother	4	yes	wild
+316	1382	13/10/2014	11.40	01/10/2012	Dalia	2.0	2	female	Dodi	Dodi	10:19	PRD_FR	mother	3		wild
+317	1382	13/10/2014	11.40	01/10/2012	Dalia	2.0	2	female	Dodi	Dodi	10:26	PRD_FR	mother	3	no	wild
+318	1382	13/10/2014	11.40	01/10/2012	Dalia	2.0	2	female	Dodi	Dodi	15:44	PRD_FR	mother	3	yes	wild
+319	2478	07/07/2018	10.07	01/04/2012	Cinnamon	6.3	6.5	female	Cissy	Cissy	09:37	PRD_FR	mother	3		wild
+320	688	17/01/2011	11.80	01/01/2005	Fredy	6.0	6	male	Friska	Friska	06:54	PWN_FR	mother	2	no	wild
+321	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:33	PWN_FR	mother	2	no	wild
+322	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:38	PWN_FR	mother	2	yes	wild
+323	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:56	PWN_FR	mother	2	yes	wild
+324	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:58	PWN_FR	mother	2	no	wild
+325	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	13:19	PWN_FR	mother	2	yes	wild
+326	1029	19/06/2013	11.25	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:19	PWN_FR	mother	2	yes	wild
+327	1029	19/06/2013	11.25	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:20	PWN_FR	mother	2	yes	wild
+328	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:12	PWN_FR	mother	2	no	wild
+329	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:55	PWN_FR	mother	2	yes	wild
+330	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	08:00	PWN_FR	mother	2	no	wild
+331	1036	22/06/2013	12.33	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:07	PWN_FR	mother	2	no	wild
+332	1036	22/06/2013	12.33	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:09	PWN_FR	mother	2	yes	wild
+333	1036	22/06/2013	12.33	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:22	PWN_FR	mother	2	yes	wild
+334	1242	29/01/2014	12.13	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	15:18	PWN_FR	mother	2	no	wild
+335	1211	30/01/2014	11.38	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	07:52	PWN_FR	mother	2	no	wild
+336	1211	30/01/2014	11.38	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	08:05	PWN_FR	mother	2	no	wild
+337	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	18:01	PWN_FR	mother	2	no	wild
+338	991	03/06/2013	5.80	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	12:00	RAYAP_IN	mother	3		wild
+339	995	05/06/2013	12.22	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	07:35	RAYAP_IN	mother	3	yes	wild
+340	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:21	RAYAP_IN	mother	3		wild
+341	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	15:09	RAYAP_IN	mother	3	no	wild
+342	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	15:59	RAYAP_IN	mother	3	yes	wild
+343	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:07	RAYAP_IN	mother	3	no	wild
+344	1044	30/06/2013	3.92	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	14:39	RAYAP_IN	mother	3	yes	wild
+345	1044	30/06/2013	3.92	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	16:02	RAYAP_IN	mother	3	no	wild
+346	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	16:10	RAYAP_IN	mother	3	yes	wild
+347	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	16:20	RAYAP_IN	mother	3	yes	wild
+348	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	16:22	RAYAP_IN	mother	3	yes	wild
+349	1076	21/08/2013	11.03	01/08/2012	Frankie	1.1	1	male	Friska	Friska	13:18	RAYAP_IN	mother	3	yes	wild
+350	1076	21/08/2013	11.03	01/08/2012	Frankie	1.1	1	male	Friska	Friska	13:20	RAYAP_IN	mother	3	no	wild
+351	1077	22/08/2013	10.87	01/08/2012	Frankie	1.1	1	male	Friska	Friska	06:39	RAYAP_IN	mother	3		wild
+352	1077	22/08/2013	10.87	01/08/2012	Frankie	1.1	1	male	Friska	Friska	06:43	RAYAP_IN	mother	3	no	wild
+353	1130	12/10/2013	10.93	01/12/2005	Diddy	7.9	8	male	Dodi	Dodi	13:21	RAYAP_IN	mother	3	no	wild
+354	1211	30/01/2014	11.38	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:32	RAYAP_IN	mother	3	no	wild
+355	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	11:27	RAYAP_IN	mother	3		wild
+356	1277	09/03/2014	11.85	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	11:44	RAYAP_IN	mother	3		wild
+357	1290	16/03/2014	11.00	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	15:42	RAYAP_IN	mother	3		wild
+358	1369	02/09/2014	12.20	01/04/2012	Cinnamon	2.4	2.5	female	Cissy	Cissy	17:10	RAYAP_IN	mother	3	yes	wild
+359	1438	09/02/2015	11.33	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	12:05	RAYAP_IN	mother	3	no	wild
+360	1438	09/02/2015	11.33	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	12:06	RAYAP_IN	mother	3	yes	wild
+361	1470	07/03/2015	12.55	01/04/2012	Cinnamon	2.9	3	female	Cissy	Cissy	09:21	RAYAP_IN	mother	3	yes	wild
+362	1636	13/10/2016	5.97	01/11/2014	Eden	2.0	2	female	Ellie	Ellie	12:35	RAYAP_IN	mother	3	yes	wild
+363	1646	27/10/2016	5.90	01/11/2014	Eden	2.0	2	female	Ellie	Ellie	12:35	RAYAP_IN	mother	3	no	wild
+364	1646	27/10/2016	5.90	01/11/2014	Eden	2.0	2	female	Ellie	Ellie	12:35	RAYAP_IN	mother	3	yes	wild
+365	1673	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	08:53	RAYAP_IN	mother	3	yes	wild
+366	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	08:50	RAYAP_IN	mother	3		wild
+367	1676	12/11/2016	10.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	10:48	RAYAP_IN	mother	3		wild
+368	1688	24/11/2016	11.43	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	16:09	RAYAP_IN	mother	3	no	wild
+369	1688	24/11/2016	11.43	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	16:10	RAYAP_IN	mother	3	no	wild
+370	1688	24/11/2016	11.43	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	16:20	RAYAP_IN	mother	3	yes	wild
+371	1688	24/11/2016	11.43	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	16:22	RAYAP_IN	mother	3	yes	wild
+372	1734	27/01/2017	7.27	01/04/2012	Cinnamon	4.8	5	female	Cissy	Cissy	08:30	RAYAP_IN	mother	3	no	wild
+373	1738	28/01/2017	11.80	01/11/2014	Eden	2.2	2	female	Ellie	Ellie	08:00	RAYAP_IN	mother	3	no	wild
+374	1738	28/01/2017	11.80	01/11/2014	Eden	2.2	2	female	Ellie	Ellie	17:30	RAYAP_IN	mother	3	yes	wild
+375	1740	28/01/2017	11.10	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	11:50	RAYAP_IN	mother	3	no	wild
+376	1742	29/01/2017	11.47	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	11:30	RAYAP_IN	mother	3		wild
+377	1749	31/01/2017	11.45	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	10:31	RAYAP_IN	mother	3	yes	wild
+378	1749	31/01/2017	11.45	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	15:17	RAYAP_IN	mother	3	yes	wild
+379	1750	31/01/2017	11.87	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	16:30	RAYAP_IN	mother	3	no	wild
+380	1758	02/02/2017	11.53	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	14:26	RAYAP_IN	mother	3		wild
+381	1762	03/02/2017	11.92	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	17:44	RAYAP_IN	mother	3	yes	wild
+382	1772	06/02/2017	12.63	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	08:05	RAYAP_IN	mother	3		wild
+383	1784	09/02/2017	12.17	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	17:46	RAYAP_IN	mother	3	no	wild
+384	1793	11/02/2017	12.63	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	10:34	RAYAP_IN	mother	3		wild
+385	1796	12/02/2017	12.00	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	14:34	RAYAP_IN	mother	3	yes	wild
+386	1810	15/02/2017	12.88	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	08:48	RAYAP_IN	mother	3	yes	wild
+387	1828	21/02/2017	10.83	01/04/2012	Cinnamon	4.9	5	female	Cissy	Cissy	11:14	RAYAP_IN	mother	3		wild
+388	1839	26/02/2017	10.80	01/04/2012	Cinnamon	4.9	5	female	Cissy	Cissy	09:36	RAYAP_IN	mother	3	yes	wild
+389	1855	24/03/2017	12.53	01/11/2014	Eden	2.4	2.5	female	Ellie	Ellie	12:55	RAYAP_IN	mother	3	no	wild
+390	1871	30/03/2017	6.13	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	13:13	RAYAP_IN	mother	3	yes	wild
+391	1882	03/04/2017	12.30	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	09:13	RAYAP_IN	mother	3	yes	wild
+392	1895	11/04/2017	12.07	01/06/2014	Tornado	2.9	3	male	Tiara	Tiara	14:08	RAYAP_IN	mother	3	yes	wild
+393	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	10:20	RAYAP_IN	mother	3		wild
+394	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	10:22	RAYAP_IN	mother	3	yes	wild
+395	2017	02/07/2017	0.80	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	14:45	RAYAP_IN	mother	3		wild
+396	2017	02/07/2017	0.80	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	14:46	RAYAP_IN	mother	3		wild
+397	2028	07/07/2017	11.53	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	14:44	RAYAP_IN	mother	3	no	wild
+398	2045	15/07/2017	11.15	01/07/2010	Lois	7.0	7	male	Lisa	Lisa	16:21	RAYAP_IN	mother	3		wild
+399	2062	22/07/2017	12.83	01/07/2010	Lois	7.1	7	male	Lisa	Lisa	09:52	RAYAP_IN	mother	3	yes	wild
+400	2134	27/09/2017	11.47	01/11/2014	Eden	2.9	3	female	Ellie	Ellie	10:06	RAYAP_IN	mother	3		wild
+401	2357	11/05/2018	10.58	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:56	RAYAP_IN	mother	3	no	wild
+402	2357	11/05/2018	10.58	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:59	RAYAP_IN	mother	3	no	wild
+403	2357	11/05/2018	10.58	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	15:34	RAYAP_IN	mother	3	no	wild
+404	2359	12/05/2018	11.33	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	11:53	RAYAP_IN	mother	3	no	wild
+405	2359	12/05/2018	11.33	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:09	RAYAP_IN	mother	3	no	wild
+406	2361	18/05/2018	8.87	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:00	RAYAP_IN	mother	3	yes	wild
+407	2361	18/05/2018	8.87	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:09	RAYAP_IN	mother	3	no	wild
+408	2361	18/05/2018	8.87	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:11	RAYAP_IN	mother	3	no	wild
+409	2361	18/05/2018	8.87	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:49	RAYAP_IN	mother	3	no	wild
+410	2361	18/05/2018	8.87	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:50	RAYAP_IN	mother	3	no	wild
+411	2360	18/05/2018	8.77	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:51	RAYAP_IN	mother	3	no	wild
+412	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:58	RAYAP_IN	mother	3	no	wild
+413	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:58	RAYAP_IN	mother	3	no	wild
+414	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:00	RAYAP_IN	mother	3	no	wild
+415	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:00	RAYAP_IN	mother	3	no	wild
+416	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:03	RAYAP_IN	mother	3	yes	wild
+417	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:11	RAYAP_IN	mother	3	no	wild
+418	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	13:16	RAYAP_IN	mother	3	no	wild
+419	2366	21/05/2018	11.30	01/11/2014	Eden	3.6	3.5	female	Ellie	Ellie	09:19	RAYAP_IN	mother	3	no	wild
+420	2366	21/05/2018	11.30	01/11/2014	Eden	3.6	3.5	female	Ellie	Ellie	10:35	RAYAP_IN	mother	3	no	wild
+421	2366	21/05/2018	11.30	01/11/2014	Eden	3.6	3.5	female	Ellie	Ellie	10:41	RAYAP_IN	mother	3	no	wild
+422	2478	07/07/2018	10.07	01/04/2012	Cinnamon	6.3	6.5	female	Cissy	Cissy	09:37	RAYAP_IN	mother	3	yes	wild
+423	2478	07/07/2018	10.07	01/04/2012	Cinnamon	6.3	6.5	female	Cissy	Cissy	09:47	RAYAP_IN	mother	3	no	wild
+424	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	07:56	RAYAP_IN	mother	3	yes	wild
+425	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	08:02	RAYAP_IN	mother	3	yes	wild
+426	1003	09/06/2013	9.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	11:48	RGH_FR	mother	3	no	wild
+427	1003	09/06/2013	9.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	11:49	RGH_FR	mother	3	no	wild
+428	1077	22/08/2013	10.87	01/08/2012	Frankie	1.1	1	male	Friska	Friska	15:53	RGH_FR	mother	3	yes	wild
+429	1077	22/08/2013	10.87	01/08/2012	Frankie	1.1	1	male	Friska	Friska	15:57	RGH_FR	mother	3	yes	wild
+430	1076	21/08/2013	11.03	01/08/2012	Frankie	1.1	1	male	Friska	Friska	16:15	RNGS_BK	mother	2	no	wild
+431	1076	21/08/2013	11.03	01/08/2012	Frankie	1.1	1	male	Friska	Friska	16:18	RNGS_BK	mother	2	no	wild
+432	1077	22/08/2013	10.87	01/08/2012	Frankie	1.1	1	male	Friska	Friska	06:59	RNGS_BK	mother	2	no	wild
+433	1680	14/11/2016	10.37	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	10:28	RNGS_FR	mother	3	yes	wild
+434	1682	15/11/2016	9.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	10:55	RNGS_FR	mother	3		wild
+435	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:31	RNGS_FR	mother	3		wild
+436	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:33	RNGS_FR	mother	3		wild
+437	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:45	RNGS_FR	mother	3		wild
+438	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:52	RNGS_FR	mother	3	yes	wild
+439	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:53	RNGS_FR	mother	3	yes	wild
+440	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:55	RNGS_FR	mother	3	no	wild
+441	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:56	RNGS_FR	mother	3	yes	wild
+442	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	13:04	RNGS_FR	mother	3	yes	wild
+443	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	13:06	RNGS_FR	mother	3	yes	wild
+444	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	13:09	RNGS_FR	mother	3	yes	wild
+445	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	13:10	RNGS_FR	mother	3	yes	wild
+446	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	13:12	RNGS_FR	mother	3	yes	wild
+447	1686	23/11/2016	11.03	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	13:47	RNGS_FR	mother	3	no	wild
+448	713	27/01/2011	11.20	01/12/2005	Diddy	5.2	5	male	Dodi	Dodi	12:15	RAYAP_IN	mother	3		wild
+449	713	27/01/2011	11.20	01/12/2005	Diddy	5.2	5	male	Dodi	Dodi	12:17	RAYAP_IN	mother	3	no	wild
+450	713	27/01/2011	11.20	01/12/2005	Diddy	5.2	5	male	Dodi	Dodi	13:13	RAYAP_IN	mother	3	no	wild
+451	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	11:37	RP_LV	mother	0	yes	wild
+452	2481	09/10/2018	10.53	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	07:14	RP_LV	mother	0		wild
+453	2485	10/10/2018	9.53	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	09:58	RP_LV	mother	0		wild
+454	2485	10/10/2018	9.53	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	10:02	RP_LV	mother	0	no	wild
+455	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	16:28	RP_VE	mother	0	yes	wild
+456	1973	10/06/2017	11.63	01/08/2012	Frankie	4.9	5	male	Friska	Friska	17:16	RP_VE	mother	0		wild
+457	2558	23/12/2018	8.85	01/02/2016	Luther	2.9	3	male	Lilly	Lilly	11:44	RP_VE	mother	0	yes	wild
+458	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	17:08	RP_LV	mother	0	no	wild
+459	752	15/02/2011	11.97	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	07:25	RP7_LV	mother	0	no	wild
+460	1256	21/02/2014	8.13	01/07/2010	Lois	3.6	3.5	male	Lisa	Lisa	09:55	RSKB_BK	mother	2	yes	wild
+461	1676	12/11/2016	10.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	09:20	RSKB_LV	mother	0		wild
+462	1680	14/11/2016	10.37	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	10:48	RSKB_LV	mother	0	no	wild
+463	1688	24/11/2016	11.43	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	09:46	RSKB_LV	mother	0	yes	wild
+464	2349	07/05/2018	3.53	01/01/2013	Pepito	5.3	5.5	male	Piniata	Piniata	15:47	RSKP_FR	mother	1	no	wild
+465	1324	10/04/2014	10.80	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	10:51	RSKP_LV	mother	0	no	wild
+466	1740	28/01/2017	11.10	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	08:43	RSKP_LV	mother	0	no	wild
+467	1024	17/06/2013	4.80	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:37	RSKP_LV	mother	0	yes	wild
+468	1029	19/06/2013	11.25	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:15	RSKP_LV	mother	0	no	wild
+469	1256	21/02/2014	8.13	01/07/2010	Lois	3.6	3.5	male	Lisa	Lisa	11:03	RSKP_LV	mother	0	no	wild
+470	1740	28/01/2017	11.10	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	15:56	RSKP_LV	mother	0		wild
+471	1740	28/01/2017	11.10	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	15:59	RSKP_LV	mother	0		wild
+472	1740	28/01/2017	11.10	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	16:00	RSKP_LV	mother	0	no	wild
+473	766	12/02/2011	13.00	01/01/2005	Fredy	6.1	6	male	Friska	Friska	08:39	RSKU_FR	mother	1	no	wild
+474	1026	18/06/2013	11.23	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:49	RSKU_FR	mother	1	yes	wild
+475	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	09:03	RSKU_FR	mother	1	no	wild
+476	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:57	RSKU_FR	mother	1	yes	wild
+477	1036	22/06/2013	12.33	01/08/2012	Frankie	0.9	1	male	Friska	Friska	17:17	RSKU_FR	mother	1	yes	wild
+478	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	06:38	RSKU_FR	mother	1	no	wild
+479	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	06:39	RSKU_FR	mother	1	no	wild
+480	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	06:48	RSKU_FR	mother	1	yes	wild
+481	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	06:53	RSKU_FR	mother	1	no	wild
+482	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	08:14	RSKU_FR	mother	1	yes	wild
+483	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	13:09	RSKU_FR	mother	1	yes	wild
+484	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	1	no	wild
+485	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	1	no	wild
+486	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	1	no	wild
+487	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	1	no	wild
+488	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	15:08	RTKS_LV	mother	1	no	wild
+489	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:20	RTKS_LV	mother	1	yes	wild
+490	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	16:02	RTKS_LV	mother	1	no	wild
+491	993	04/06/2013	10.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	13:04	RTKS_LV	mother	1	no	wild
+492	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	15:03	RTKS_VE	mother	1		wild
+493	742	10/02/2011	10.92	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:58	RTKS_VE	mother	1	no	wild
+494	747	12/02/2011	11.20	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:42	RTKS_VE	mother	1	no	wild
+495	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	16:13	RTKS_VE	mother	1	no	wild
+496	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	15:30	RTKS_VE	mother	1	no	wild
+497	1036	22/06/2013	12.33	01/08/2012	Frankie	0.9	1	male	Friska	Friska	11:29	RTKS_VE	mother	1	yes	wild
+498	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:17	RTKS_VE	mother	1	yes	wild
+499	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	09:03	RTKS_VE	mother	1	yes	wild
+500	1063	17/07/2013	11.40	01/07/2010	Lois	3.0	3	male	Lisa	Lisa	09:09	RTKS_VE	mother	1		wild
+501	1067	19/07/2013	11.23	01/07/2010	Lois	3.1	3	male	Lisa	Lisa	14:31	RTKS_VE	mother	1	no	wild
+502	1077	22/08/2013	10.87	01/08/2012	Frankie	1.1	1	male	Friska	Friska	09:42	RTKS_VE	mother	1	no	wild
+503	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	14:02	RTKS_VE	mother	1	yes	wild
+504	1470	07/03/2015	12.55	01/04/2012	Cinnamon	2.9	3	female	Cissy	Cissy	14:12	RTKS_VE	mother	1	yes	wild
+505	1747	30/01/2017	12.40	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	12:07	RTKS_VE	mother	1		wild
+506	1747	30/01/2017	12.40	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	12:08	RTKS_VE	mother	1		wild
+507	1747	30/01/2017	12.40	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	12:09	RTKS_VE	mother	1		wild
+508	1747	30/01/2017	12.40	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	15:45	RTKS_VE	mother	1		wild
+509	1879	02/04/2017	12.00	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	14:08	RTKS_VE	mother	1	yes	wild
+510	1888	07/04/2017	11.38	01/09/2014	Amor	2.6	2.5	male	Alice	Alice	15:35	RTKS_VE	mother	1	yes	wild
+511	2062	22/07/2017	12.83	01/07/2010	Lois	7.1	7	male	Lisa	Lisa	14:26	RTKS_VE	mother	1		wild
+512	2072	31/07/2017	4.32	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	14:04	RTKS_VE	mother	1		wild
+513	2159	29/11/2017	7.90	01/08/2012	Frankie	5.3	5.5	male	Friska	Friska	11:43	RTKS_VE	mother	1	yes	wild
+514	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:26	RTKS_VE	mother	1	no	wild
+515	2363	19/05/2018	12.07	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:38	RTKS_VE	mother	1	yes	wild
+516	2366	21/05/2018	11.30	01/11/2014	Eden	3.6	3.5	female	Ellie	Ellie	10:49	RTKS_VE	mother	1	no	wild
+517	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	07:25	RTKS_VE	mother	1	yes	wild
+518	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	07:38	RTKS_VE	mother	1	yes	wild
+519	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	07:40	RTKS_VE	mother	1	yes	wild
+520	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	07:45	RTKS_VE	mother	1	yes	wild
+521	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	08:05	RTKS_VE	mother	1	yes	wild
+522	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	08:21	RTKS_VE	mother	1	no	wild
+523	2476	06/10/2018	10.80	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	09:06	RTKS_VE	mother	1	yes	wild
+524	2213	13/01/2018	10.72	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	09:37	RTN_VE	mother	1	no	wild
+525	2213	13/01/2018	10.72	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	09:50	RTN_VE	mother	1	no	wild
+526	1014	13/06/2013	10.33	01/08/2012	Frankie	0.9	1	male	Friska	Friska	16:14	RTP_FR	mother	1	yes	wild
+527	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	15:17	RTPB_LV	mother	0	yes	wild
+528	993	04/06/2013	10.75	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	08:17	SEMUT_IN	mother	2	yes	wild
+529	1001	08/06/2013	10.00	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	10:51	SEMUT_IN	mother	2	no	wild
+530	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	07:54	SEMUT_IN	mother	2		wild
+531	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	15:30	SEMUT_IN	mother	2	yes	wild
+532	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	15:31	SEMUT_IN	mother	2	yes	wild
+533	1294	21/03/2014	5.40	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	13:40	SEMUT_IN	mother	2	no	wild
+534	1832	22/02/2017	10.78	01/04/2012	Cinnamon	4.9	5	female	Cissy	Cissy	14:28	SEMUT_IN	mother	2		wild
+535	1973	10/06/2017	11.63	01/08/2012	Frankie	4.9	5	male	Friska	Friska	11:17	SEMUT_IN	mother	2	no	wild
+536	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	17:05	SEMUT_IN	mother	2		wild
+537	2018	03/07/2017	12.00	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	17:08	SEMUT_IN	mother	2	yes	wild
+538	2023	05/07/2017	12.33	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	11:43	SEMUT_IN	mother	2	yes	wild
+539	2062	22/07/2017	12.83	01/07/2010	Lois	7.1	7	male	Lisa	Lisa	11:51	SEMUT_IN	mother	2		wild
+540	2023	05/07/2017	12.33	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	11:43	SEMUT_IN	mother	3		wild
+541	2462	09/09/2018	3.90	01/04/2012	Cinnamon	6.4	6.5	female	Cissy	Cissy	16:29		mother		yes	wild
+542	1211	30/01/2014	11.38	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	16:36	SPG_FR	mother	3	no	wild
+543	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	14:41	SPG_FR	mother	3	no	wild
+544	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	14:43	SPG_FR	mother	3	no	wild
+545	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	14:47	SPG_FR	mother	3	no	wild
+546	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	15:05	SPG_FR	mother	3	no	wild
+547	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	15:21	SPG_FR	mother	3	no	wild
+548	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:58	SPG_FR	mother	3	yes	wild
+549	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	12:10	SPG_FR	mother	3	no	wild
+550	1217	02/02/2014	11.57	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	15:58	SPG_FR	mother	3	no	wild
+551	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:25	SPG_FR	mother	3	no	wild
+552	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:30	SPG_FR	mother	3	no	wild
+553	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:59	SPG_FR	mother	3	yes	wild
+554	1219	03/02/2014	12.10	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:31	SPG_FR	mother	3	yes	wild
+555	1221	04/02/2014	11.97	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	07:31	SPG_FR	mother	3	no	wild
+556	1221	04/02/2014	11.97	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	07:44	SPG_FR	mother	3	no	wild
+557	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:11	SPG_FR	mother	3	no	wild
+558	1426	03/02/2015	11.75	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	13:03	SPG_FR	mother	3	no	wild
+559	1428	04/02/2015	12.02	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	11:39	SPG_FR	mother	3	no	wild
+560	1428	04/02/2015	12.02	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	15:13	SPG_FR	mother	3	no	wild
+561	1434	07/02/2015	10.82	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	10:46	SPG_FR	mother	3	no	wild
+562	1436	08/02/2015	10.70	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	13:55	SPG_FR	mother	3	no	wild
+563	1438	09/02/2015	11.33	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	12:49	SPG_FR	mother	3	no	wild
+564	1670	10/11/2016	10.53	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	08:31	SPG_FR	mother	3	no	wild
+565	1670	10/11/2016	10.53	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	08:31	SPG_FR	mother	3	yes	wild
+566	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	06:51	SPG_FR	mother	3		wild
+567	1680	14/11/2016	10.37	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	11:03	SPG_FR	mother	3	no	wild
+568	1680	14/11/2016	10.37	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	11:04	SPG_FR	mother	3	no	wild
+569	1680	14/11/2016	10.37	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	11:05	SPG_FR	mother	3	no	wild
+570	1682	15/11/2016	9.33	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	07:37	SPG_FR	mother	3	yes	wild
+571	1298	21/03/2014	4.57	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	13:15	STICK	mother	4	yes	wild
+572	2567	26/01/2019	11.00	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	16:31	STICK	mother	4	no	wild
+573	747	12/02/2011	11.20	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	14:44	TLS_BERDURI_LV	mother	0	yes	wild
+574	1350	25/05/2014	11.60	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	17:09	TMPGRW_FR	mother	3	yes	wild
+575	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	15:47	TMPGRW_FR	mother	3	no	wild
+576	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	15:48	TMPGRW_FR	mother	3	no	wild
+577	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	15:48	TMPGRW_FR	mother	3		wild
+578	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	15:47	TMPGRW_FR	mother	3	no	wild
+579	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	15:47	TMPGRW_FR	mother	3		wild
+580	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	09:01	TOOLUSE	mother	5	yes	wild
+581	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:58	TPSBT_FR	mother	1		wild
+582	739	09/02/2011	11.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	14:39	TPSBT_FR	mother	1	no	wild
+583	742	10/02/2011	10.92	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	08:59	TPSBT_FR	mother	1	no	wild
+584	742	10/02/2011	10.92	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	09:05	TPSBT_FR	mother	1	no	wild
+585	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	06:54	TPSBT_FR	mother	1	no	wild
+586	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	08:01	TPSBT_FR	mother	1	no	wild
+587	752	15/02/2011	11.97	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:35	TPSBT_FR	mother	1	no	wild
+588	1294	21/03/2014	5.40	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	08:04	TPSBT_FR	mother	1	no	wild
+589	1294	21/03/2014	5.40	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	08:54	TPSBT_FR	mother	1	no	wild
+590	1312	02/04/2014	11.87	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	13:18	TPSBT_FR	mother	1		wild
+591	1312	02/04/2014	11.87	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	15:02	TPSBT_FR	mother	1	yes	wild
+592	1316	04/04/2014	11.95	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	06:59	TPSBT_FR	mother	1	no	wild
+593	2567	26/01/2019	11.00	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	11:22	TPSBT_FR	mother	1	no	wild
+594	2332	15/04/2018	9.40	01/07/2010	Lois	7.8	8	male	Lisa	Lisa	14:25	TREEHOLE	mother	3	no	wild
+595	766	12/02/2011	13.00	01/01/2005	Fredy	6.1	6	male	Friska	Friska	11:19	TWIG	mother	4	no	wild
+596	755	16/02/2011	10.00	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	15:45	TWIG	mother	4		wild
+597	1283	12/03/2014	12.18	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	16:28	TWIG	mother	4	yes	wild
+598	2360	18/05/2018	8.77	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	15:55	TWIG	mother	4	yes	wild
+599	1130	12/10/2013	10.93	01/04/2013	Simba	0.5	0.5	male	Sarabi	Sarabi	13:20	UBR_FR	mother	3	no	wild
+600	1130	12/10/2013	10.93	01/04/2013	Simba	0.5	0.5	male	Sarabi	Sarabi	16:07	UBR_FR	mother	3	no	wild
+601	1372	10/09/2014	5.47	01/08/2012	Frankie	2.1	2	male	Friska	Friska	14:37	UBR_FR	mother	3	no	wild
+602	1372	10/09/2014	5.47	01/08/2012	Frankie	2.1	2	male	Friska	Friska	14:56	UBR_FR	mother	3	no	wild
+603	1492	28/03/2015	12.03	01/11/2014	Eden	0.4	0.5	female	Ellie	Ellie	11:08	UBR_FR	mother	3		wild
+604	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	09:39	UBR_FR	mother	3		wild
+605	1845	02/03/2017	10.97	01/07/2010	Lois	6.7	6.5	male	Lisa	Lisa	13:40	UBR_FR	mother	3		wild
+606	1895	11/04/2017	12.07	01/06/2014	Tornado	2.9	3	male	Tiara	Tiara	14:08	UBR_FR	mother	3	yes	wild
+607	2023	05/07/2017	12.33	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	16:25	UBR_FR	mother	3		wild
+608	2023	05/07/2017	12.33	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	16:25	UBR_FR	mother	3	yes	wild
+609	2472	04/10/2018	9.93	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	12:44	UBR_FR	mother	3	yes	wild
+610	2472	04/10/2018	9.93	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	12:44	UBR_FR	mother	3	yes	wild
+611	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:11	ULAT_IN	mother	5		wild
+612	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:12	ULAT_IN	mother	5		wild
+613	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:17	ULAT_IN	mother	5		wild
+614	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:23	ULAT_IN	mother	5	yes	wild
+615	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:23	ULAT_IN	mother	5	no	wild
+616	1674	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:31	ULAT_IN	mother	5	yes	wild
+617	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:36	UNK	mother		no	wild
+618	742	10/02/2011	10.92	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	06:58	UNK	mother		no	wild
+619	745	11/02/2011	10.83	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	15:06	UNK	mother		no	wild
+620	752	15/02/2011	11.97	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	14:13	UNK	mother		no	wild
+621	991	03/06/2013	5.80	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	15:17	UNK	mother		yes	wild
+622	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:17	UNK	mother			wild
+623	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	07:28	UNK	mother			wild
+624	1208	28/01/2014	12.55	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	12:04	UNK	mother		yes	wild
+625	1213	31/01/2014	12.23	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	17:01	UNK	mother			wild
+626	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	08:40	UNK	mother		no	wild
+627	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:14	UNK	mother		yes	wild
+628	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:15	UNK	mother		yes	wild
+629	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:17	UNK	mother		no	wild
+630	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:20	UNK	mother			wild
+631	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	09:24	UNK	mother		yes	wild
+632	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:28	UNK	mother			wild
+633	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:46	UNK	mother		no	wild
+634	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:50	UNK	mother		no	wild
+635	1231	07/02/2014	9.53	01/04/2013	Rendang	0.9	1	male	Raffi	Raffi	11:50	UNK	mother		no	wild
+636	1264	25/02/2014	11.87	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	16:54	UNK	mother			wild
+637	1264	25/02/2014	11.87	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	17:00	UNK	mother			wild
+638	1269	27/02/2014	12.07	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	10:39	UNK	mother			wild
+639	1269	27/02/2014	12.07	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	10:47	UNK	mother			wild
+640	1269	27/02/2014	12.07	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	10:48	UNK	mother		yes	wild
+641	1269	27/02/2014	12.07	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	10:49	UNK	mother		yes	wild
+642	1269	27/02/2014	12.07	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	14:13	UNK	mother		no	wild
+643	1269	27/02/2014	12.07	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	18:13	UNK	mother		no	wild
+644	1272	04/03/2014	10.70	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	07:31	UNK	mother		no	wild
+645	1278	10/03/2014	11.97	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	10:34	UNK	mother		no	wild
+646	1288	15/03/2014	11.02	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	12:18	UNK	mother			wild
+647	1288	15/03/2014	11.02	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	12:30	UNK	mother			wild
+648	1298	21/03/2014	4.57	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	13:54	UNK	mother			wild
+649	1298	21/03/2014	4.57	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	14:11	UNK	mother			wild
+650	1302	24/03/2014	11.80	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	07:38	UNK	mother			wild
+651	1302	24/03/2014	11.80	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	11:10	UNK	mother		yes	wild
+652	1312	02/04/2014	11.87	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	13:18	UNK	mother			wild
+653	1312	02/04/2014	11.87	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	15:03	UNK	mother			wild
+654	1314	03/04/2014	12.18	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	07:57	UNK	mother			wild
+655	1314	03/04/2014	12.18	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	11:38	UNK	mother			wild
+656	1314	03/04/2014	12.18	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	11:41	UNK	mother			wild
+657	1318	05/04/2014	12.70	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	13:44	UNK	mother			wild
+658	1322	09/04/2014	14.00	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	14:54	UNK	mother		yes	wild
+659	1322	09/04/2014	14.00	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	15:06	UNK	mother		yes	wild
+660	1326	04/05/2014	8.00	01/07/2010	Lois	3.8	4	male	Lisa	Lisa	17:06	UNK	mother		yes	wild
+661	1332	08/05/2014	11.82	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	07:36	UNK	mother			wild
+662	1336	10/05/2014	12.22	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	15:39	UNK	mother		yes	wild
+663	1423	02/02/2015	7.77	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	11:17	UNK	mother			wild
+664	1426	03/02/2015	11.75	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	07:35	UNK	mother		no	wild
+665	1426	03/02/2015	11.75	01/11/2014	Eden	0.3	0.5	female	Ellie	Ellie	07:42	UNK	mother		no	wild
+666	1492	28/03/2015	12.03	01/11/2014	Eden	0.4	0.5	female	Ellie	Ellie	07:21	UNK	mother			wild
+667	1655	01/11/2016	11.87	01/11/2014	Eden	2.0	2	female	Ellie	Ellie	06:30	UNK	mother		no	wild
+668	1673	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:10	UNK	mother			wild
+669	1673	11/11/2016	10.90	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:24	UNK	mother			wild
+670	1740	28/01/2017	11.10	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	11:39	UNK	mother		no	wild
+671	1778	08/02/2017	11.68	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	08:06	UNK	mother			wild
+672	1778	08/02/2017	11.68	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	11:53	UNK	mother			wild
+673	1816	17/02/2017	11.37	01/11/2014	Eden	2.3	2.5	female	Ellie	Ellie	14:58	UNK	mother			wild
+674	1846	02/03/2017	10.97	01/07/2010	Lois	6.7	6.5	male	Lisa	Lisa	13:52	UNK	mother		no	wild
+675	1855	24/03/2017	12.53	01/11/2014	Eden	2.4	2.5	female	Ellie	Ellie	11:41	UNK	mother		yes	wild
+676	1858	25/03/2017	11.70	01/08/2012	Frankie	4.6	4.5	male	Friska	Friska	11:14	UNK	mother			wild
+677	1883	04/04/2017	12.27	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	18:11	UNK	mother		yes	wild
+678	1884	05/04/2017	12.07	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	17:00	UNK	mother			wild
+679	2020	03/07/2017	12.70	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	07:55	UNK	mother			wild
+680	2026	06/07/2017	11.87	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	11:44	UNK	mother		no	wild
+681	2028	07/07/2017	11.53	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	17:19	UNK	mother		no	wild
+682	2057	19/07/2017	12.27	01/07/2010	Lois	7.1	7	male	Lisa	Lisa	18:01	UNK	mother			wild
+683	2062	22/07/2017	12.83	01/07/2010	Lois	7.1	7	male	Lisa	Lisa	16:21	UNK	mother		yes	wild
+684	2077	04/08/2017	11.83	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	16:04	UNK	mother		no	wild
+685	2077	04/08/2017	11.83	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	16:40	UNK	mother		no	wild
+686	2208	09/01/2018	12.17	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	10:51	UNK	mother		no	wild
+687	2208	09/01/2018	12.17	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	14:47	UNK	mother		yes	wild
+688	2211	10/01/2018	11.57	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	14:35	UNK	mother		yes	wild
+689	2225	31/01/2018	7.55	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	12:06	UNK	mother			wild
+690	2225	31/01/2018	7.55	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	12:06	UNK	mother		no	wild
+691	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:57	UNK	mother		yes	wild
+692	2359	12/05/2018	11.33	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:10	UNK	mother		no	wild
+693	2360	18/05/2018	8.77	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:00	UNK	mother			wild
+694	2383	02/06/2018	11.30	01/07/2010	Lois	7.9	8	male	Lisa	Lisa	09:28	UNK	mother			wild
+695	2388	03/06/2018	5.27	01/07/2010	Lois	7.9	8	male	Lisa	Lisa	10:51	AKAR_NA	mother		no	wild
+696	1291	17/03/2014	8.43	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	10:02	UNK_BK	mother	2	yes	wild
+697	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:24	UNK_FR	mother		no	wild
+698	1223	05/02/2014	11.63	01/04/2013	Simba	0.8	1	male	Sarabi	Sarabi	10:42	UNK_FR	mother		yes	wild
+699	1231	07/02/2014	9.53	01/04/2013	Rendang	0.9	1	male	Raffi	Raffi	10:49	UNK_FR	mother		no	wild
+700	1398	19/11/2014	5.57	01/07/2010	Lois	4.4	4.5	male	Lisa	Lisa	11:17	UNK_FR	mother		yes	wild
+701	1680	14/11/2016	10.37	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	12:01	UNK_FR	mother			wild
+702	2159	29/11/2017	7.90	01/08/2012	Frankie	5.3	5.5	male	Friska	Friska	12:39	UNK_FR	mother		no	wild
+703	2488	11/10/2018	9.67	01/04/2012	Cinnamon	6.5	6.5	female	Cissy	Cissy	10:02	UNK_FR	mother			wild
+704	1024	17/06/2013	4.80	01/08/2012	Frankie	0.9	1	male	Friska	Friska	12:51	UNK_IN	mother	2.5	no	wild
+705	1280	11/03/2014	12.10	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	12:33	UNK_IN	mother	2.5	no	wild
+706	1314	03/04/2014	12.18	01/08/2012	Frankie	1.7	1.5	male	Friska	Friska	11:41	UNK_IN	mother	2.5	yes	wild
+707	1322	09/04/2014	14.00	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	14:25	UNK_IN	mother	2.5		wild
+708	1322	09/04/2014	14.00	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	14:26	UNK_IN	mother	2.5		wild
+709	1324	10/04/2014	10.80	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	07:53	UNK_IN	mother	2.5	yes	wild
+710	1336	10/05/2014	12.22	01/04/2013	Rendang	1.1	1	male	Raffi	Raffi	16:04	UNK_IN	mother	2.5		wild
+711	1369	02/09/2014	12.20	01/04/2012	Cinnamon	2.4	2.5	female	Cissy	Cissy	10:38	UNK_IN	mother	2.5		wild
+712	1377	22/09/2014	10.77	01/08/2012	Frankie	2.1	2	male	Friska	Friska	08:40	UNK_IN	mother	2.5	yes	wild
+713	1377	22/09/2014	10.77	01/08/2012	Frankie	2.1	2	male	Friska	Friska	09:08	UNK_IN	mother	2.5	yes	wild
+714	1692	01/12/2016	7.47	01/08/2012	Frankie	4.3	4.5	male	Friska	Friska	11:56	UNK_IN	mother	2.5	no	wild
+715	1753	01/02/2017	11.58	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	14:04	UNK_IN	mother	2.5	no	wild
+716	1753	01/02/2017	11.58	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	14:19	UNK_IN	mother	2.5	no	wild
+717	1879	02/04/2017	12.00	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	10:20	UNK_IN	mother	2.5	no	wild
+718	1884	05/04/2017	12.07	01/04/2012	Cinnamon	5.0	5	female	Cissy	Cissy	13:06	UNK_IN	mother	2.5	no	wild
+719	1981	12/06/2017	12.73	01/08/2012	Frankie	4.9	5	male	Friska	Friska	10:37	UNK_IN	mother	2.5	no	wild
+720	2005	25/06/2017	11.68	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	16:05	UNK_IN	mother	2.5	no	wild
+721	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	16:35	UNK_IN	mother	2.5	no	wild
+722	2036	10/07/2017		01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	15:50	UNK_IN	mother	2.5	yes	wild
+723	2159	29/11/2017	7.90	01/08/2012	Frankie	5.3	5.5	male	Friska	Friska	07:16	UNK_IN	mother	2.5	yes	wild
+724	2208	09/01/2018	12.17	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	16:30	UNK_IN	mother	2.5	no	wild
+725	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:01	UNK_IN	mother	2.5	no	wild
+726	2383	02/06/2018	11.30	01/07/2010	Lois	7.9	8	male	Lisa	Lisa	09:25	UNK_IN	mother	2.5		wild
+727	2553	19/12/2018	12.28	01/11/2014	Eden	4.1	4	female	Ellie	Ellie	17:53	UNK_IN	mother	2.5	yes	wild
+728	2553	19/12/2018	12.28	01/11/2014	Eden	4.1	4	female	Ellie	Ellie	17:54	UNK_IN	mother	2.5	no	wild
+729	1008	12/06/2013	8.87	01/08/2012	Frankie	0.9	1	male	Friska	Friska	17:10	UNK_LV	mother	0		wild
+730	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	10:16	UNK_LV	mother	0	yes	wild
+731	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:31	UNK_LV	mother	0		wild
+732	1034	21/06/2013	12.17	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:13	UNK_LV	mother	0	no	wild
+733	1079	23/08/2013	11.00	01/08/2012	Frankie	1.1	1	male	Friska	Friska	14:26	UNK_LV	mother	0	no	wild
+734	1322	09/04/2014	14.00	01/04/2012	Cinnamon	2.0	2	female	Cissy	Cissy	15:54	UNK_LV	mother	0	yes	wild
+735	2102	02/09/2017	8.00	01/11/2014	Eden	2.8	3	female	Ellie	Ellie	11:39	UNK_LV	mother	0		wild
+736	2478	07/07/2018	10.07	01/04/2012	Cinnamon	6.3	6.5	female	Cissy	Cissy	12:13	UNK_LV	mother	0		wild
+737	2543	15/12/2018	7.30	01/04/2012	Cinnamon	6.7	6.5	female	Cissy	Cissy	13:02	UNK_LV	mother	0	no	wild
+738	1768	05/02/2017	11.83	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	12:46	UNK_VE	mother	4	yes	wild
+739	1768	05/02/2017	11.83	01/07/2010	Lois	6.6	6.5	male	Lisa	Lisa	12:51	UNK_VE	mother	4	yes	wild
+740	2064	24/07/2017	12.67	01/01/2013	Pepito	4.6	4.5	male	Piniata	Piniata	16:10	UNK_VE	mother	4	no	wild
+741	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:29	UNK_VE	mother	4	yes	wild
+742	1283	12/03/2014	12.18	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	13:45	UNK_VE	mother	4	yes	wild
+743	1302	24/03/2014	11.80	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:23	UNK_VE	mother	4	yes	wild
+744	1304	25/03/2014		01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:46	UNK_VE	mother	4	no	wild
+745	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	11:38	UNK_VE	mother	4	yes	wild
+746	752	15/02/2011	11.97	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:00	UNK_LV	mother	0	yes	wild
+747	991	03/06/2013	5.80	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	17:15	UNK_LV	mother	0	no	wild
+748	1148	29/10/2013	4.10	01/04/2012	Cinnamon	1.6	1.5	female	Cissy	Cissy	16:15	UNK_LV	mother	0	no	wild
+749	1148	29/10/2013	4.10	01/04/2012	Cinnamon	1.6	1.5	female	Cissy	Cissy	16:24	UNK_LV	mother	0	no	wild
+750	1259	23/02/2014	3.20	01/08/2012	Frankie	1.6	1.5	male	Friska	Friska	15:05	UNK_LV	mother	0	no	wild
+751	4	29/06/2007	11.80	01/01/2006	Ronaldo	1.5	1.5	male	Raffi	Raffi	14:58	UNK_LV	mother	0		wild
+752	4	29/06/2007	11.80	01/01/2006	Ronaldo	1.5	1.5	male	Raffi	Raffi	15:28	MLK_FR	mother	2.35		wild
+753	4	29/06/2007	11.80	01/01/2006	Ronaldo	1.5	1.5	male	Raffi	Raffi	17:24	UNK_LV	mother	0	no	wild
+754	4	29/06/2007	11.80	01/01/2006	Ronaldo	1.5	1.5	male	Raffi	Raffi	17:31	UNK_LV	mother	0	yes	wild
+755	4	29/06/2007	11.80	01/01/2006	Ronaldo	1.5	1.5	male	Raffi	Raffi	17:32	UNK_LV	mother	0	yes	wild
+756	9	06/07/2007	12.05	01/01/2005	Fredy	2.5	2.5	male	Friska	Friska	08:02	MLK_FR	mother	2.35	no	wild
+757	13	08/07/2007	11.25	01/01/2005	Fredy	2.5	2.5	male	Friska	Friska	08:00	RAYAP_IN	mother	3	yes	wild
+758	13	08/07/2007	11.25	01/01/2005	Fredy	2.5	2.5	male	Friska	Friska	08:08	RAYAP_IN	mother	3	yes	wild
+759	13	08/07/2007	11.25	01/01/2005	Fredy	2.5	2.5	male	Friska	Friska	08:10	RAYAP_IN	mother	3	yes	wild
+760	31	20/08/2007	10.60	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	10:21	PWN_FR	mother	2	yes	wild
+761	31	20/08/2007	10.60	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	11:35	RAYAP_IN	mother	3	yes	wild
+762	31	20/08/2007	10.60	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	17:39	PWN_FR	mother	2	yes	wild
+763	31	20/08/2007	10.60	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	17:42	PWN_FR	mother	2	yes	wild
+764	39	21/08/2007	12.62	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	14:03	MLK_FR	mother	2.35	yes	wild
+765	46	23/08/2007	12.42	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	06:26	PWN_FR	mother	2	yes	wild
+766	46	23/08/2007	12.42	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	08:48	PWN_FR	mother	2	yes	wild
+767	53	28/08/2007	7.92	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	15:25	PWN_FR	mother	2	no	wild
+768	57	29/08/2007	12.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:59	PWN_FR	mother	2	yes	wild
+769	57	29/08/2007	12.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	11:54	PWN_FR	mother	2	yes	wild
+770	57	29/08/2007	12.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	11:56	PWN_FR	mother	2	yes	wild
+771	57	29/08/2007	12.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	15:14	PWN_FR	mother	2	yes	wild
+772	57	29/08/2007	12.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	15:25	UNK_IN	mother	2.5	no	wild
+773	57	29/08/2007	12.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	15:50	UNK_IN	mother	2.5	yes	wild
+774	62	30/08/2007	11.60	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:52	PWN_FR	mother	2	yes	wild
+775	62	30/08/2007	11.60	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	14:50	RAYAP_IN	mother	3	yes	wild
+776	62	30/08/2007	11.60	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	13:34	PWN_FR	mother	2	yes	wild
+777	62	30/08/2007	11.60	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	14:08	PWN_FR	mother	2	yes	wild
+778	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	06:56	PWN_FR	mother	2	yes	wild
+779	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:04	PWN_FR	mother	2	yes	wild
+780	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	13:33	PWN_FR	mother	2	yes	wild
+781	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:50	PWN_FR	mother	2	yes	wild
+782	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:51	PWN_FR	mother	2	yes	wild
+783	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:52	PWN_FR	mother	2	yes	wild
+784	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:54	PWN_FR	mother	2	yes	wild
+785	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	08:33	PWN_FR	mother	2	no	wild
+786	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	09:07	MLK_FR	mother	2.35	yes	wild
+787	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	09:11	MLK_FR	mother	2.35	yes	wild
+788	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	13:09	RAYAP_IN	mother	3	no	wild
+789	68	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	14:39	PWN_FR	mother	2	no	wild
+790	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	09:01	UBR_FR	mother	3	yes	wild
+791	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	11:45	RSKU_FR	mother	1	no	wild
+792	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	11:48	RSKU_FR	mother	1	no	wild
+793	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:30	UNK	mother		yes	wild
+794	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:32	UNK	mother		yes	wild
+795	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:51	UNK	mother		yes	wild
+796	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:53	UNK	mother		yes	wild
+797	107	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:55	UNK	mother		yes	wild
+798	115	21/10/2007	0.80	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	17:39	MLK_FR	mother	2.35	yes	wild
+799	115	21/10/2007	0.80	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	17:43	MLK_FR	mother	2.35	yes	wild
+800	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	13:47	BSG_FR	mother	3	yes	wild
+801	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	14:35	BSG_FR	mother	3	yes	wild
+802	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	15:05	BSG_FR	mother	3	no	wild
+803	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	15:09	BSG_FR	mother	3	no	wild
+804	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	15:46	RAYAP_IN	mother	3	yes	wild
+805	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	16:09	PRD_FR	mother	3	yes	wild
+806	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	16:20	PRD_FR	mother	3	no	wild
+807	117	22/10/2007	10.50	01/01/2006	Ronaldo	1.8	2	male	Raffi	Raffi	16:25	PRD_FR	mother	3	yes	wild
+808	123	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:12	BSG_FR	mother	3	yes	wild
+809	123	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:01	BSG_FR	mother	3	yes	wild
+810	123	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:16	BSG_FR	mother	3	yes	wild
+811	123	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:19	BSG_FR	mother	3	yes	wild
+812	123	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:28	BSG_FR	mother	3	yes	wild
+813	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:32	RAYAP_IN	mother	3	no	wild
+814	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	11:08	SPG_FR	mother	3	no	wild
+815	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:08	BSG_FR	mother	3	yes	wild
+816	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:12	BSG_FR	mother	3	yes	wild
+817	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:55	BSG_FR	mother	3	yes	wild
+818	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:56	BSG_FR	mother	3	no	wild
+819	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	13:58	BSG_FR	mother	3	yes	wild
+820	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:06	BSG_FR	mother	3	yes	wild
+821	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:10	BSG_FR	mother	3	yes	wild
+822	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:12	BSG_FR	mother	3	no	wild
+823	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:46	UBR_FR	mother	3	yes	wild
+824	125	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:33	RAYAP_IN	mother	3	yes	wild
+825	129	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	09:56	BSG_FR	mother	3	yes	wild
+826	129	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	13:07	BSG_FR	mother	3	no	wild
+827	129	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:03	BSG_FR	mother	3	yes	wild
+828	129	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:05	BSG_FR	mother	3	yes	wild
+829	129	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	07:31	SPG_FR	mother	3	yes	wild
+830	131	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:26	AKAR_VE	mother	4	yes	wild
+831	131	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:34	AKAR_VE	mother	4	yes	wild
+832	131	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:08	UBR_FR	mother	3	no	wild
+833	137	11/11/2007	3.53	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	16:14	UNK_LV	mother	0	no	wild
+834	137	11/11/2007	3.53	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	16:42	MLK_FR	mother	2.35	no	wild
+835	137	11/11/2007	3.53	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	17:04	MLK_FR	mother	2.35	no	wild
+836	157	01/12/2007	5.00	01/06/2006	Albin	1.5	1.5	male	Alice	Alice	13:34	AKAR_LV	mother	0	no	wild
+837	157	02/12/2007	5.00	01/06/2006	Albin	1.5	1.5	male	Alice	Alice	15:58	AKAR_LV	mother	0	no	wild
+838	163	03/12/2007	11.52	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	14:58	SPG_FR	mother	3	no	wild
+839	163	03/12/2007	11.52	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	16:18	UNK_LV	mother	0	no	wild
+840	163	03/12/2007	11.52	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	15:45	MDGK_FR	mother	4	no	wild
+841	185	15/01/2008	5.60	01/01/2006	Ronaldo	2.0	2	male	Raffi	Raffi	17:20	GLMB_LV	mother	0	no	wild
+842	185	15/01/2008	5.60	01/01/2006	Ronaldo	2.0	2	male	Raffi	Raffi	17:44	UNK_LV	mother	0	no	wild
+843	185	15/01/2008	5.60	01/01/2006	Ronaldo	2.0	2	male	Raffi	Raffi	14:29	MLK_FR	mother	2.35	no	wild
+844	185	15/01/2008	5.60	01/01/2006	Ronaldo	2.0	2	male	Raffi	Raffi	17:47	UNK_LV	mother	0	no	wild
+845	190	18/01/2008	3.60	01/01/2007	Chuck	1.0	1	male	Chick	Chick	18:14	BNGPR_FR	mother	2	no	wild
+846	199	31/01/2008	3.97	01/01/2006	Ronaldo	2.1	2	male	Raffi	Raffi	14:32	MLK_FR	mother	2.35	yes	wild
+847	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	11:22	RAYAP_IN	mother	3	yes	wild
+848	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	11:25	RAYAP_IN	mother	3	no	wild
+849	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	11:28	RAYAP_IN	mother	3	no	wild
+850	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	11:30	RAYAP_IN	mother	3	no	wild
+851	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:01	CMG_FR	mother	5	no	wild
+852	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:12	CMG_FR	mother	5	yes	wild
+853	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:15	CMG_FR	mother	5	yes	wild
+854	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:52	CMG_FR	mother	5	yes	wild
+855	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:54	CMG_FR	mother	5	yes	wild
+856	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:56	CMG_FR	mother	5	yes	wild
+857	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:56	CMG_FR	mother	5	yes	wild
+858	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	17:58	CMG_FR	mother	5	no	wild
+859	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:04	CMG_FR	mother	5	yes	wild
+860	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:05	CMG_FR	mother	5	yes	wild
+861	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:09	CMG_FR	mother	5	yes	wild
+862	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:10	CMG_FR	mother	5	yes	wild
+863	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:14	CMG_FR	mother	5	yes	wild
+864	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:20	CMG_FR	mother	5	yes	wild
+865	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:24	CMG_FR	mother	5	no	wild
+866	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:26	CMG_FR	mother	5	yes	wild
+867	208	10/02/2008	12.33	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	18:33	CMG_FR	mother	5	no	wild
+868	214	13/02/2008	12.27	01/01/2005	Fredy	3.1	3	male	Friska	Friska	13:32	RSKB_FR	mother	1	no	wild
+869	214	13/02/2008	12.27	01/01/2005	Fredy	3.1	3	male	Friska	Friska	13:41	RSKB_FR	mother	1	yes	wild
+870	215	14/02/2008	12.37	01/03/1999	Ellie	9.0	9	female	Friska	Fredy	17:07	MLK_FR	youngerbrother	2.35	no	wild
+871	216	14/02/2008	8.52	01/01/2005	Fredy	3.1	3	male	Friska	Friska	17:33	AKAR_LV	mother	0	yes	wild
+872	219	15/02/2008	12.27	01/01/2005	Fredy	3.1	3	male	Friska	Friska	07:44	UNK_FR	mother		yes	wild
+873	219	15/02/2008	12.27	01/01/2005	Fredy	3.1	3	male	Friska	Friska	15:37	CMG_FR	mother	5	yes	wild
+874	224	17/02/2008	11.58	01/01/2005	Fredy	3.1	3	male	Friska	Friska	10:08	UNK_LV	mother	0	yes	wild
+875	227	18/02/2008	12.02	01/01/2005	Fredy	3.1	3	male	Friska	Friska	07:56	RP_LV	mother	0	yes	wild
+876	237	23/02/2008	11.18	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	09:48	UNK_LV	mother	0	no	wild
+877	237	23/02/2008	11.18	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	16:13	UNK_LV	mother	0	no	wild
+878	237	23/02/2008	11.18	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	16:17	UNK_LV	mother	0	no	wild
+879	237	23/02/2008	11.18	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	08:24	RAYAP_IN	mother	3	yes	wild
+880	237	23/02/2008	11.18	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	15:59	RAYAP_IN	mother	3	no	wild
+881	241	25/02/2008	12.60	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	10:06	UNK_IN	mother	2.5	no	wild
+882	241	25/02/2008	12.60	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	17:54	UNK_IN	mother	2.5	yes	wild
+883	241	25/02/2008	12.60	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	15:46	AJK_VE	mother	4	yes	wild
+884	244	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	11:20	UNK_IN	mother	2.5	no	wild
+885	244	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	11:50	UNK_IN	mother	2.5	yes	wild
+886	244	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	11:58	UNK_LV	mother	0	yes	wild
+887	244	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	15:10	AKAR_LV	mother	0	yes	wild
+888	244	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	15:18	AKAR_LV	mother	0	yes	wild
+889	261	20/03/2008	11.63	01/01/2001	Lilly	7.2	7	female	Lisa	Lisa	16:40	AKAR_LV	mother	0	no	wild
+890	266	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	14:14	RSKP_FR	mother	1	no	wild
+891	266	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	15:56	RSKP_FR	mother	1	yes	wild
+892	266	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	16:48	RSKP_FR	mother	1	no	wild
+893	266	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	15:37	RSKP_FR	mother	1	no	wild
+894	266	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	15:51	RSKP_FR	mother	1	no	wild
+895	266	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	15:53	RSKP_FR	mother	1	yes	wild
+896	305	23/05/2008	10.80	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	10:10	AKAR_LV	mother	0	no	wild
+897	305	23/05/2008	10.80	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	14:52	AKAR_LV	mother	0	no	wild
+898	305	23/05/2008	10.80	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	06:20	AKAR_LV	mother	0	no	wild
+899	305	23/05/2008	10.80	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	06:44	AKAR_LV	mother	0	no	wild
+900	305	23/05/2008	10.80	01/03/1999	Ellie	9.2	9	female	Friska	Fredy	08:23	AKAR_LV	youngerbrother	0	no	wild
+901	305	23/05/2008	10.80	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	10:07	AKAR_LV	mother	0	no	wild
+902	408	28/11/2008	6.95	01/01/2005	Fredy	3.9	4	male	Friska	Friska	12:45	UNK	mother		yes	wild
+903	408	28/11/2008	6.95	01/01/2005	Fredy	3.9	4	male	Friska	Friska	13:08	UNK	mother		yes	wild
+904	408	28/11/2008	6.95	01/01/2005	Fredy	3.9	4	male	Friska	Friska	13:00	UNK	mother		yes	wild
+905	408	28/11/2008	6.95	01/01/2005	Fredy	3.9	4	male	Friska	Friska	13:14	UNK	mother		yes	wild
+906	424	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Friska	12:10	ULAT_IN	mother	5	no	wild
+907	424	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Friska	12:44	ASK_LV	mother	0	yes	wild
+908	424	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Friska	13:15	ULAT_IN	mother	5	no	wild
+909	424	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Friska	16:37	ATB_VE	mother	4	no	wild
+910	10	06/07/2007	12.00	01/01/2005	Fredy	2.5	2.5	male	Friska	Friska	08:02	KULBT_FR	mother	1	no	wild
+911	124	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:12	BSG_FR	mother	3	yes	wild
+912	124	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:00	BSG_FR	mother	3	yes	wild
+913	124	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:16	BSG_FR	mother	3	yes	wild
+914	124	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:16	BSG_FR	mother	3	yes	wild
+915	124	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:44	BSG_FR	mother	3	no	wild
+916	124	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:19	BSG_FR	mother	3	yes	wild
+917	124	30/10/2007	8.35	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:28	BSG_FR	mother	3	yes	wild
+918	342	05/07/2007	4.60	01/01/2005	Fredy	2.5	2.5	male	Friska	Friska	15:26	AKAR_NA	mother			wild
+919	342	05/07/2007	4.60	01/01/2005	Fredy	2.5	2.5	male	Friska	Friska	15:28	AKAR_NA	mother		yes	wild
+920	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:07	BSG_FR	mother	3	no	wild
+921	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:45	UBR_FR	mother	3	yes	wild
+922	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	12:56	UBR_FR	mother	3		wild
+923	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:21	BSG_FR	mother	3		wild
+924	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:22	SEMUT_IN	mother	2	yes	wild
+925	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:04	BSG_FR	mother	3	yes	wild
+926	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:32	RAYAP_IN	mother	3	yes	wild
+927	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Ellie	13:31	SPG_FR	mother	3	no	wild
+928	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:12	BSG_FR	mother	3		wild
+929	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:21	BSG_FR	mother	3	yes	wild
+930	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:12	PRD_FR	mother	3	no	wild
+931	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	11:08	SPG_FR	mother	3	no	wild
+932	126	31/10/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	14:10	BSG_FR	mother	3	yes	wild
+933	210	12/02/2008	8.30	01/01/2005	Fredy	3.1	3	male	Friska	Friska	18:37	RSKB_FR	mother	1	no	wild
+934	210	12/02/2008	8.30	01/01/2005	Fredy	3.1	3	male	Friska	Friska	15:46	RSKB_FR	mother	1		wild
+935	136	05/11/2007	6.07	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:28	RTN_VE	mother	1	yes	wild
+936	136	05/11/2007	6.07	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:46	RTN_VE	mother	1	yes	wild
+937	136	05/11/2007	6.07	01/01/2005	Fredy	2.8	3	male	Friska	Friska	09:59	KULBT_FR	mother	1		wild
+938	136	05/11/2007	6.07	01/01/2005	Fredy	2.8	3	male	Friska	Friska	10:06	KULBT_FR	mother	1	yes	wild
+939	136	05/11/2007	6.07	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:17	RTN_VE	mother	1	yes	wild
+940	136	05/11/2007	6.07	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:17	RTN_VE	mother	1		wild
+941	134	04/11/2007	11.73	01/01/2005	Fredy	2.8	3	male	Friska	Friska	11:10	SPG_FR	mother	3	yes	wild
+942	134	04/11/2007	11.73	01/01/2005	Fredy	2.8	3	male	Friska	Friska	08:37	AKAR_LV	mother	0	yes	wild
+943	134	04/11/2007	11.73	01/01/2005	Fredy	2.8	3	male	Friska	Friska	09:06	KULBT_FR	mother	1	yes	wild
+944	132	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	09:25	BSG_FR	mother	3	yes	wild
+945	132	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	09:27	BSG_FR	mother	3	yes	wild
+946	132	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	13:57	MLK_FR	mother	2.35	yes	wild
+947	132	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:10	KULBT_FR	mother	1		wild
+948	132	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	15:20	KULBT_FR	mother	1	yes	wild
+949	132	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:03	UBR_FR	mother	3		wild
+950	132	03/11/2007	11.13	01/01/2005	Fredy	2.8	3	male	Friska	Friska	10:45	SPG_FR	mother	3	no	wild
+951	130	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	13:07	BSG_FR	mother	3		wild
+952	130	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	16:09	SPG_FR	mother	3		wild
+953	130	02/11/2007	11.68	01/01/2005	Fredy	2.8	3	male	Friska	Friska	07:31	SPG_FR	mother	3	yes	wild
+954	319	29/05/2008	9.90	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	08:17	UNK	mother		yes	wild
+955	319	29/05/2008	9.90	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	14:30	ASK_LV	mother	0	yes	wild
+956	314	28/05/2008	12.00	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	14:44	CMG_FR	mother	5	no	wild
+957	314	28/05/2008	12.00	01/01/2005	Fredy	3.4	3.5	male	Friska	Friska	14:14	CMG_FR	mother	5		wild
+958	217	14/02/2008	8.52	01/01/2005	Fredy	3.1	3	male	Friska	Friska	17:33	AKAR_LV	mother	0	yes	wild
+959	278	12/04/2008	5.75	01/01/2005	Fredy	3.3	3.5	male	Friska	Friska	15:30	ASK_LV	mother	0	yes	wild
+960	228	18/02/2008	12.02	01/01/2005	Fredy	3.1	3	male	Friska	Friska	15:32	UNK	mother			wild
+961	228	18/02/2008	12.02	01/01/2005	Fredy	3.1	3	male	Friska	Friska	15:36	UNK_IN	mother	2.5	yes	wild
+962	228	18/02/2008	12.02	01/01/2005	Fredy	3.1	3	male	Friska	Friska	07:56	RSKP_LV	mother	0	yes	wild
+963	225	17/02/2008	11.62	01/01/2005	Fredy	3.1	3	male	Friska	Friska		TOOLUSE	mother	5	no	wild
+964	225	17/02/2008	11.62	01/01/2005	Fredy	3.1	3	male	Friska	Ellie		TOOLUSE	oldersister	5	yes	wild
+965	225	17/02/2008	11.62	01/01/2005	Fredy	3.1	3	male	Friska	Friska	10:08	UNK	mother		yes	wild
+966	220	15/02/2008	12.27	01/01/2005	Fredy	3.1	3	male	Friska	Friska	14:48	SEMUT_IN	mother	2	yes	wild
+967	220	15/02/2008	12.27	01/01/2005	Fredy	3.1	3	male	Friska	Friska	15:37	UNK_VE	mother	4	yes	wild
+968	164	03/12/2007	11.52	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	14:58	SPG_FR	mother	3	no	wild
+969	164	03/12/2007	11.52	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	16:18	UNK_LV	mother	0		wild
+970	138	11/11/2007	3.53	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	16:14	UNK	mother		no	wild
+971	138	11/11/2007	3.53	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	16:42	MLK_FR	mother	2.35	no	wild
+972	138	11/11/2007	3.53	01/01/2001	Lilly	6.9	7	female	Lisa	Lisa	17:04	MLK_FR	mother	2.35	no	wild
+973	108	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	09:01	UBR_FR	mother	3		wild
+974	108	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	11:45	KULBT_FR	mother	1	no	wild
+975	108	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:30	KULBT_FR	mother	1	yes	wild
+976	108	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:51	KULBT_FR	mother	1	yes	wild
+977	108	04/10/2007	9.37	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	12:55	KULBT_FR	mother	1	yes	wild
+978	47	23/08/2007	12.70	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	06:26	PWN_FR	mother	2		wild
+979	47	23/08/2007	12.70	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	08:48	PWN_FR	mother	2	yes	wild
+980	47	23/08/2007	12.70	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	14:09	CMG_FR	mother	5		wild
+981	47	23/08/2007	12.70	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	14:28	CMG_FR	mother	5	yes	wild
+982	40	21/08/2007	12.77	01/01/2001	Lilly	6.6	6.5	female	Lisa	Lisa	14:03	MLK_FR	mother	2.35		wild
+983	206	09/02/2008	11.60	01/01/2001	Lilly	7.1	7	female	Lisa	Lisa	16:33	RAYAP_IN	mother	3	no	wild
+984	114	07/10/2007	11.68	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	08:45	UNK	mother		yes	wild
+985	114	07/10/2007	11.68	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	10:13	AKAR_NA	mother		yes	wild
+986	114	07/10/2007	11.68	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	10:18	AKAR_NA	mother		yes	wild
+987	114	07/10/2007	11.68	01/01/2001	Lilly	6.8	7	female	Lisa	Lisa	15:18	MLK_FR	mother	2.35		wild
+988	245	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	11:20	SEMUT_IN	mother	2	no	wild
+989	245	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	11:50	SEMUT_IN	mother	2	yes	wild
+990	245	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	11:58	RP_LV	mother	0	yes	wild
+991	245	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	15:10	MDGB_FR	mother	1		wild
+992	245	26/02/2008	12.27	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	15:17	AKAR_LV	mother	0	yes	wild
+993	242	25/02/2008	12.60	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	10:06	SEMUT_IN	mother	2	yes	wild
+994	242	25/02/2008	12.60	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	17:54	SEMUT_IN	mother	2	yes	wild
+995	242	25/02/2008	12.60	01/01/2003	Chindy	5.2	5	female	Cissy	Cissy	15:46	KULJM_FR	mother	1	yes	wild
+996	242	25/02/2008	12.60	01/01/2003	Chindy	5.2	5	female	Cissy	Shera	17:18	MDGB_FR	mother	1		wild
+997	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	09:48		mother		no	wild
+998	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Xenix	12:26		olderbrother		yes	wild
+999	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	12:34	RAYAP_IN	mother	3	no	wild
+1000	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	17:06	MLK_FR	mother	2.35	yes	wild
+1001	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	16:13	AKAR_LV	mother	0	yes	wild
+1002	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	16:17	AKAR_LV	mother	0	no	wild
+1003	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	08:24	MLK_FR	mother	2.35	yes	wild
+1004	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	15:59	RAYAP_IN	mother	3	no	wild
+1005	238	23/02/2008	11.80	01/01/2003	Chindy	5.1	5	female	Cissy	Cissy	18:09	AKAR_LV	mother	0	no	wild
+1006	180	12/01/2008	5.67	01/01/2003	Chindy	5.0	5	female	Cissy	Cissy	12:40	MLK_FR	mother	2.35	no	wild
+1007	340	18/06/2008	6.77		Ian			male	Intai	Intai	10:24	RAYAP_IN	mother	3	no	wild
+1008	186	15/01/2008	5.60	01/01/2006	Ronaldo	2.0	2	male	Raffi	Raffi	17:20	GLMB_LV	mother	0	no	wild
+1009	186	15/01/2008	5.60	01/01/2006	Ronaldo	2.0	2	male	Raffi	Raffi	17:43	RSKP_LV	mother	0	no	wild
+1010	186	15/01/2008	5.60	01/01/2006	Ronaldo	2.0	2	male	Raffi	Raffi	17:47	RSKP_LV	mother	0	no	wild
+1011	200	31/01/2008	3.97	01/01/2006	Ronaldo	2.1	2	male	Raffi	Raffi	14:32	MLK_FR	mother	2.35	yes	wild
+1012	67	01/09/2007	11.88	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	09:52	PWN_FR	mother	2	no	wild
+1013	67	01/09/2007	11.88	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	10:22	PWN_FR	mother	2		wild
+1014	67	01/09/2007	11.88	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	10:42	PWN_FR	mother	2	no	wild
+1015	63	30/08/2007	11.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:52	PWN_FR	mother	2		wild
+1016	63	30/08/2007	11.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	13:34	PWN_FR	mother	2	yes	wild
+1017	63	30/08/2007	11.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	14:50	RAYAP_IN	mother	3	yes	wild
+1018	63	30/08/2007	11.68	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	06:46	PWN_FR	mother	2	yes	wild
+1019	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	16:51	RSKP_FR	mother	1	no	wild
+1020	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	16:45	RSKP_FR	mother	1	yes	wild
+1021	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	16:43	RSKP_FR	mother	1		wild
+1022	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	16:42	RSKP_FR	mother	1	no	wild
+1023	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	15:56	RSKP_FR	mother	1	yes	wild
+1024	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	15:51	RSKP_FR	mother	1	no	wild
+1025	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	15:37	RSKP_FR	mother	1	no	wild
+1026	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	14:04	RSKP_FR	mother	1		wild
+1027	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	14:03	RSKP_FR	mother	1	no	wild
+1028	267	26/03/2008	5.17	01/01/2006	Ronaldo	2.2	2	male	Raffi	Raffi	16:46	RSKP_FR	mother	1	yes	wild
+1029	58	29/08/2007	12.75	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	15:25	SEMUT_IN	mother	2		wild
+1030	58	29/08/2007	12.75	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	15:14	PWN_FR	mother	2	no	wild
+1031	58	29/08/2007	12.75	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	11:54	PWN_FR	mother	2	yes	wild
+1032	58	29/08/2007	12.75	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	11:56	PWN_FR	mother	2		wild
+1033	58	29/08/2007	12.75	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	15:50	SEMUT_IN	mother	2	yes	wild
+1034	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	06:56	PWN_FR	mother	2		wild
+1035	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:04	PWN_FR	mother	2		wild
+1036	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	13:33	MLK_FR	mother	2.35		wild
+1037	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	14:40	PWN_FR	mother	2		wild
+1038	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	07:50	PWN_FR	mother	2	yes	wild
+1039	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	08:33	PWN_FR	mother	2		wild
+1040	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	09:07	MLK_FR	mother	2.35	yes	wild
+1041	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	13:09	RAYAP_IN	mother	3	no	wild
+1042	69	02/09/2007	11.30	01/01/2006	Ronaldo	1.7	1.5	male	Raffi	Raffi	14:39	PWN_FR	mother	2	no	wild
+1043	217	14/02/2008	8.52	01/01/2005	Fredy	3.1	3	male	Friska	Ellie	17:07	MLK_FL	oldersister	0	no	wild
+1044	175	26/12/2007	11.77	01/01/2005	Fredy	3.0	3	male	Friska	Ellie	11:51	UNK	oldersister			wild
+1045	175	26/12/2007	11.77	01/01/2005	Fredy	3.0	3	male	Friska	Ellie	16:48	UNK	oldersister			wild
+1046	175	26/12/2007	11.77	01/01/2005	Fredy	3.0	3	male	Friska	Ellie	16:52	UNK	oldersister		yes	wild
+1047	314	28/05/2008	12.00	01/01/2005	Fredy	3.4	3.5	male	Friska	Ellie	07:55	RSKP_FR	oldersister	1		wild
+1048	311	27/05/2008	2.10	01/01/2005	Fredy	3.4	3.5	male	Friska	Ellie	16:20	RSKP_FR	oldersister	1		wild
+1049	368	09/10/2008	3.30	01/01/2003	Chindy	5.8	6	female	Cissy	Cissy	15:12	UNK	mother		yes	wild
+1050	370	10/10/2008	10.90	01/01/2003	Chindy	5.8	6	female	Cissy	Cissy	06:58	MLK_FR	mother	2.35	yes	wild
+1051	425	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Friska	12:10	SEMUT_IN	mother	2	no	wild
+1052	425	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Friska	13:45	AKAR_LV	mother	0	yes	wild
+1053	425	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Ellie	14:42	RAYAP_IN	oldersister	3	no	wild
+1054	425	10/01/2009	11.78	01/01/2005	Fredy	4.0	4	male	Friska	Friska	15:28	RAYAP_IN	mother	3		wild
+1055	429	11/01/2009	12.33	01/01/2005	Fredy	4.0	4	male	Friska	Friska	14:44	AKAR_VE	mother	4	yes	wild
+1056	430	12/01/2009	12.30	01/01/2005	Fredy	4.0	4	male	Friska	Cissy	10:16	RP_LV	aunt	0	no	wild
+1057	430	12/01/2009	12.30	01/01/2005	Fredy	4.0	4	male	Friska	Cissy	10:20	RP_LV	aunt	0	no	wild
+1058	430	12/01/2009	12.30	01/01/2005	Fredy	4.0	4	male	Friska	Cissy	10:28	RP_LV	aunt	0	no	wild
+1059	430	12/01/2009	12.30	01/01/2005	Fredy	4.0	4	male	Friska	Friska	16:27	RAYAP_IN	mother	3	no	wild
+1060	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	13:54	RAYAP_IN	mother	3	yes	wild
+1061	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	14:50	RAYAP_IN	mother	3	yes	wild
+1062	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	15:38	RAYAP_IN	mother	3	yes	wild
+1063	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	16:12	MNGH_FR	mother	3		wild
+1064	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	13:42	RAYAP_IN	mother	3	yes	wild
+1065	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	17:32	SEMUT_IN	mother	2	yes	wild
+1066	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	16:53	SPG_FR	mother	3		wild
+1067	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	16:59	SPG_FR	mother	3		wild
+1068	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	17:22	SPG_FR	mother	3	yes	wild
+1069	436	14/01/2009	11.40	01/01/2005	Fredy	4.0	4	male	Friska	Friska	17:24	SPG_FR	mother	3		wild
+1070	438	15/01/2009	10.83	01/01/2005	Fredy	4.0	4	male	Friska	Friska	08:49	SEMUT_IN	mother	2	no	wild
+1071	438	15/01/2009	10.83	01/01/2005	Fredy	4.0	4	male	Friska	Friska	08:53	SEMUT_IN	mother	2		wild
+1072	438	15/01/2009	10.83	01/01/2005	Fredy	4.0	4	male	Friska	Friska	14:11	RP_LV	mother	0	yes	wild
+1073	438	15/01/2009	10.83	01/01/2005	Fredy	4.0	4	male	Friska	Friska	14:25	AJK_VE	mother	4	yes	wild
+1074	438	15/01/2009	10.83	01/01/2005	Fredy	4.0	4	male	Friska	Friska	14:34	RAYAP_IN	mother	3	yes	wild
+1075	438	15/01/2009	10.83	01/01/2005	Fredy	4.0	4	male	Friska	Friska	14:54	RAYAP_IN	mother	3	yes	wild
+1076	507	27/03/2009	7.20	01/01/2005	Fredy	4.2	4	male	Friska	Friska	12:51	RSKP_LV	mother	0	no	wild
+1077	507	27/03/2009	7.20	01/01/2005	Fredy	4.2	4	male	Friska	Friska	13:00	AKAR_LV	mother	0	yes	wild
+1211	2642	18/04/2019	7.90	01/04/2012	Cinnamon	7.0	7	female	Cissy	Cissy	11:08	SEMUT_IN	mother	2	yes	wild
+1212	2754	20/08/2019	11.07	01/01/2013	Pepito	6.6	6.5	male	Piniata	Piniata	07:21	RNGS_BK	mother	2	yes	wild
+1213	2754	20/08/2019	11.07	01/01/2013	Pepito	6.6	6.5	male	Piniata	Piniata	07:22	RNGS_BK	mother	2	yes	wild
+1214	2754	20/08/2019	11.07	01/01/2013	Pepito	6.6	6.5	male	Piniata	Piniata	07:22	RNGS_BK	mother	2	yes	wild
+1215	2772	31/08/2019	11.88	01/11/2014	Eden	4.8	5	female	Ellie	Ellie	06:54	BSG_BK	mother	2	yes	wild
+1216	2772	31/08/2019	11.88	01/11/2014	Eden	4.8	5	female	Ellie	Ellie	07:32	SEMUT_IN	mother	2	yes	wild
+1217	2772	31/08/2019	11.88	01/11/2014	Eden	4.8	5	female	Ellie	Ellie	14:56	MADU_KERINGAT_IN	mother	4	yes	wild
+1218	2772	31/08/2019	11.88	01/11/2014	Eden	4.8	5	female	Ellie	Ellie	16:38	UNK_IN	mother	2.5	yes	wild
+1219	2881	13/12/2019	6.73	01/01/2013	Pepito	7.0	7	male	Piniata	Piniata	08:28	CMG_FR	mother	5	yes	wild
+1220	2588	14/02/2019	12.07	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	13:55	TPSBT_FR	mother	1		wild
+1221	2588	14/02/2019	12.07	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	15:18	RAYAP_IN	mother	3	yes	wild
+1222	2593	17/02/2019	7.60	01/02/2016	Luther	3.0	3	male	Lilly	Lilly	17:01	UBR_FR	mother	3	yes	wild
+1223	2595	18/02/2019	11.53	01/02/2016	Luther	3.0	3	male	Lilly	Lilly		UNK_LV	mother	0	no	wild
+1224	2589	14/02/2019	12.43	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	13:55	TPSBT_FR	mother	1		wild
+1225	2589	14/02/2019	12.43	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	15:18	RAYAP_IN	mother	3	yes	wild
+1226	2593	17/02/2019	7.60	01/02/2016	Luther	3.0	3	male	Lilly	Lilly	17:01	UNK_LV	mother	0	yes	wild
+1227	2595	18/02/2019	11.53	01/02/2016	Luther	3.0	3	male	Lilly	Lilly		UNK_LV	mother	0	no	wild
+1228	2567	26/01/2019	11.00	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	11:22	TPSBT_FR	mother	1	no	wild
+1229	2567	26/01/2019	11.00	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	16:31	RNGS_BK	mother	2	no	wild
+1230	2569	27/01/2019	12.20	01/08/2012	Frankie	6.5	6.5	male	Friska	Friska	11:14	APLO_VE	mother	1	no	wild
+1231	2897	19/01/2020	12.52	01/11/2014	Eden	5.2	5	female	Ellie	Ellie	14:28	RAYAP_IN	mother	3	yes	wild
+1232	2897	19/01/2020	12.52	01/11/2014	Eden	5.2	5	female	Ellie	Ellie	16:53	RAYAP_IN	mother	3	yes	wild
+1233	2897	19/01/2020	12.52	01/11/2014	Eden	5.2	5	female	Ellie	Ellie	16:57	RAYAP_IN	mother	3	yes	wild
+1234	2897	19/01/2020	12.52	01/11/2014	Eden	5.2	5	female	Ellie	Ellie	17:07	RAYAP_IN	mother	3	yes	wild
+1235	2897	19/01/2020	12.52	01/11/2014	Eden	5.2	5	female	Ellie	Ellie	17:13	RAYAP_IN	mother	3	yes	wild
+1236	2897	19/01/2020	12.52	01/11/2014	Eden	5.2	5	female	Ellie	Ellie	17:27	RAYAP_IN	mother	3	yes	wild
+1237	2713	16/07/2019	4.48	01/11/2014	Eden	4.7	4.5	female	Ellie	Ellie	14:57	RAYAP_IN	mother	3	yes	wild
+1238				01/08/2012	Frankie			male	Friska	Friska	10:54	ATB_VE	mother	4	yes	wild
+1239				01/08/2012	Frankie			male	Friska	Friska	12:08	RTN_VE	mother	1	yes	wild
+1240	2714	16/07/2019	4.50	01/11/2014	Eden	4.7	4.5	female	Ellie	Ellie	14:58	RAYAP_IN	mother	3	yes	wild
+1241	2687	16/06/2019	9.40	01/11/2014	Eden	4.6	4.5	female	Ellie	Ellie	14:28	APKSB_LV	mother	0	yes	wild
+1242	2853	15/11/2019	11.27	01/11/2014	Eden	5.0	5	female	Ellie	Ellie	11:03	ASK_LV	mother	0	yes	wild
+1243	2853	15/11/2019	11.27	01/11/2014	Eden	5.0	5	female	Ellie	Ellie	11:53	RAYAP_IN	mother	3	yes	wild
+1244	2610	11/03/2019	12.53	01/08/2012	Frankie	6.6	6.5	male	Friska	Friska	11:36	UNK	mother		yes	wild
+1245	2656	11/05/2019	12.40	01/08/2012	Frankie	6.8	7	male	Friska	Friska	14:12	UNK	mother		no	wild
+1246	2663	13/05/2019	12.27	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	08:27	UNK_IN	mother	2.5	yes	wild
+1247	2663	13/05/2019	12.27	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	09:45	RAYAP_IN	mother	3		wild
+1248	2670	17/05/2019	5.97	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	12:55	RAYAP_IN	mother	3	yes	wild
+1249	2670	17/05/2019	5.97	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	12:56	RAYAP_IN	mother	3		wild
+1250	2670	17/05/2019	5.97	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	13:22	RAYAP_IN	mother	3	yes	wild
+1251	2670	17/05/2019	5.97	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	13:23	RAYAP_IN	mother	3	yes	wild
+1252	2670	17/05/2019	5.97	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	13:26	RAYAP_IN	mother	3	yes	wild
+1253	2670	17/05/2019	5.97	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	13:30	RAYAP_IN	mother	3	yes	wild
+1254	2670	17/05/2019	5.97	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	13:33	RAYAP_IN	mother	3	yes	wild
+1255	2654	10/05/2019	1.08	01/08/2012	Frankie	6.8	7	male	Friska	Friska	17:24	UNK_IN	mother	2.5	yes	wild
+1256	2654	10/05/2019	1.08	01/08/2012	Frankie	6.8	7	male	Friska	Friska	17:25	UNK_IN	mother	2.5	yes	wild
+1257	2654	10/05/2019	1.08	01/08/2012	Frankie	6.8	7	male	Friska	Friska	17:27	UNK_IN	mother	2.5	yes	wild
+1258	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	11:19	UNK_IN	mother	2.5	no	wild
+1259	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	11:20	UNK_IN	mother	2.5	no	wild
+1260	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	15:00	UNK_IN	mother	2.5	no	wild
+1261	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	15:06	UNK_IN	mother	2.5	no	wild
+1262	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	16:32	TMPGRW_FR	mother	3	no	wild
+1263	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	16:32	TMPGRW_FR	mother	3	yes	wild
+1264	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	17:07	TMPGRW_FR	mother	3		wild
+1265	2809	01/10/2019	10.93	01/08/2012	Frankie	7.2	7	male	Friska	Friska	07:18	RAYAP_IN	mother	3	yes	wild
+1266	2831	22/10/2019	7.43	01/11/2014	Eden	5.0	5	female	Ellie	Ellie	12:34	RAYAP_IN	mother	3	yes	wild
+1267	2834	27/10/2019	8.42	01/11/2014	Eden	5.0	5	female	Ellie	Ellie	11:20	UNK_IN	mother	2.5	yes	wild
+1268	2811	03/10/2019	4.15	01/08/2012	Frankie	7.2	7	male	Friska	Friska	14:29	MADU_KERINGAT_IN	mother	4	yes	wild
+1269	2811	03/10/2019	4.15	01/08/2012	Frankie	7.2	7	male	Friska	Friska	17:00	APKSB_LV	mother	0	no	wild
+1270	2774	01/09/2019	11.13	01/11/2014	Eden	4.8	5	female	Ellie	Ellie	09:34	RAYAP_IN	mother	3	no	wild
+1271	2774	01/09/2019	11.13	01/11/2014	Eden	4.8	5	female	Ellie	Ellie	11:29	RAYAP_IN	mother	3	yes	wild
+1272	2777	02/09/2019	11.43	01/11/2014	Eden	4.8	5	female	Ellie	Ellie	13:51	MADU_IN	mother	4	yes	wild
+1273	2800	28/09/2019	10.87	01/08/2012	Frankie	7.2	7	male	Friska	Friska	10:48	RAYAP_IN	mother	3	yes	wild
+1274	2800	28/09/2019	10.87	01/08/2012	Frankie	7.2	7	male	Friska	Friska	10:55	RAYAP_IN	mother	3	yes	wild
+1275	2800	28/09/2019	10.87	01/08/2012	Frankie	7.2	7	male	Friska	Friska	10:57	RAYAP_IN	mother	3	no	wild
+1276	2800	28/09/2019	10.87	01/08/2012	Frankie	7.2	7	male	Friska	Friska	11:00	RAYAP_IN	mother	3	yes	wild
+1277	2800	28/09/2019	10.87	01/08/2012	Frankie	7.2	7	male	Friska	Friska	11:03	RAYAP_IN	mother	3	no	wild
+1078	6012001	06/01/2020	1.50	05/08/2017	Sari	2.4	2.5	female	Padana	Padana	13:36	PAPRIKA_FR	mother	2	no	zoo
+1079	6012002	06/01/2020	1.50	25/03/2017	Martok	2.8	3	male	Raja	Bimbo	13:33	SALAD_VE	father	0	no	zoo
+1080	7012001	07/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:40	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1081	7012002	07/01/2020	1.25	05/08/2017	Sari	2.4	2.5	female	Padana	Padana	13:41	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1082	7012003	07/01/2020	1.25	02/08/2019	Rima	0.4	0.5	female	Pini	Pini	13:44	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1083	8012001	08/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:31	PAPRIKA_FR	mother	2	yes	zoo
+1084	8012002	08/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:31	PAPRIKA_FR	mother	2	no	zoo
+1085	8012003	08/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Pini	13:49	SALAD_VE	grandmother	0	yes	zoo
+1086	8012004	08/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Pini	13:51	SALAD_VE	grandmother	0	yes	zoo
+1087	8012005	08/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Pini	13:54	SALAD_VE	grandmother	0	no	zoo
+1088	8012006	08/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Raja	14:01	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1089	8012007	08/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Padana	14:07	SALAD_VE	mother	0	yes	zoo
+1090	8012008	08/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Padana	14:24	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1091	8012009	08/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Suaq	14:31	SALAD_VE	cousin	0	no	zoo
+1092	8012010	08/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Dokana	15:45	PAPRIKA_FR	nonrelevant	2	no	zoo
+1093	14012001	14/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Suaq	13:35	WILLOW_LEAVES_LV	cousin	0	yes	zoo
+1094	14012002	14/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:37	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1095	14012003	14/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:40	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1096	14012004	14/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:42	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1097	14012005	14/01/2020	1.25	05/08/2017	Sari	2.4	2.5	female	Padana	Pini	13:48	LEEK_VE	grandmother	1	yes	zoo
+1098	14012006	14/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	14:07	PAPRIKA_FR	mother	2	yes	zoo
+1099	15012001	15/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:34	PAPRIKA_FR	mother	2	yes	zoo
+1100	15012002	15/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:35	PAPRIKA_FR	mother	2	no	zoo
+1101	15012003	15/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:35	PAPRIKA_FR	mother	2	no	zoo
+1102	15012004	15/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Pini	13:40	SALAD_VE	grandmother	0	yes	zoo
+1103	15012005	15/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Dokana	15:21	WILLOW_LEAVES_LV	nonrelevant	0	yes	zoo
+1104	15012006	15/01/2020	2.75	05/08/2017	Sari	2.4	2.5	female	Padana	Padana	15:28	LEEK_VE	mother	1	yes	zoo
+1105	15012007	15/01/2020	2.75	25/03/2017	Martok	2.8	3	male	Raja	Suaq	15:31	BROCCOLI_VE	cousin	0	no	zoo
+1106	20012001	20/01/2020	2.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	12:34	CELERY_ROOT_ROOT	mother	2	yes	zoo
+1107	20012002	20/01/2020	2.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:27	PAPRIKA_FR	mother	2	yes	zoo
+1108	20012003	20/01/2020	2.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:33	PAPRIKA_FR	mother	2	yes	zoo
+1109	20012004	20/01/2020	2.25	05/08/2017	Sari	2.5	2.5	female	Padana	Suaq	13:35	WILLOW_LEAVES_LV	brother	0	yes	zoo
+1110	20012005	20/01/2020	2.25	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:41	LEEK_VE	mother	1	yes	zoo
+1111	22012001	22/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:20	SALAD_VE	mother	0	yes	zoo
+1112	22012002	22/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:34	ZUCCHINI_PIECE_FR	mother	0	yes	zoo
+1113	22012003	22/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:39	PAPRIKA_FR	mother	2	yes	zoo
+1114	22012004	22/01/2020	1.25	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:44	ZUCCHINI_PIECE_FR	mother	0	yes	zoo
+1115	22012005	22/01/2020	1.25	05/08/2017	Sari	2.5	2.5	female	Padana	Raja	14:01	WILLOW_LEAVES_LV	aunt	0	yes	zoo
+1116	22012006	22/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	14:03	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1117	23012001	23/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	15:36	CARROT_ROOT	mother	1	yes	zoo
+1118	23012002	23/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Suaq	15:39	CARROT_ROOT	cousin	1	no	zoo
+1119	23012003	23/01/2020	1.25	05/08/2017	Sari	2.5	2.5	female	Padana	Dokana	15:40	CARROT_ROOT	nonrelevant	1	no	zoo
+1120	23012004	23/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Bimbo	15:44	SALAD_VE	father	0	yes	zoo
+1121	23012005	23/01/2020	1.25	05/08/2017	Sari	2.5	2.5	female	Padana	Pini	15:49	CARROT_ROOT	grandmother	1	yes	zoo
+1122	23012006	23/01/2020	1.25	25/03/2017	Martok	2.8	3	male	Raja	Raja	15:54	CARROT_ROOT	mother	1	yes	zoo
+1123	23012007	23/01/2020	1.25	05/08/2017	Sari	2.5	2.5	female	Padana	Bimbo	15:56	CARROT_ROOT	father	1	yes	zoo
+1124	24012001	24/01/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:29	LEEK_VE	mother	1	yes	zoo
+1125	24012002	24/01/2020	2.50	25/03/2017	Martok	2.8	3	male	Raja	Suaq	13:32	WILLOW_LEAVES_LV	cousin	0	yes	zoo
+1126	24012003	24/01/2020	2.50	25/03/2017	Martok	2.8	3	male	Raja	Suaq	13:37	WILLOW_LEAVES_LV	cousin	0	yes	zoo
+1127	24012004	24/01/2020	2.50	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:44	PAPRIKA_FR	mother	2	yes	zoo
+1128	24012005	24/01/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:46	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1129	24012006	24/01/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:51	SALAD_VE	mother	0	yes	zoo
+1130	28012001	28/01/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Raja	13:43	CELERY_ROOT_ROOT	aunt	2	yes	zoo
+1131	28012002	28/01/2020	2.50	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:49	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1132	28012003	28/01/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:57	CELERY_STEM_VE	mother	1	no	zoo
+1133	28012004	28/01/2020	2.50	25/03/2017	Martok	2.8	3	male	Raja	Raja	13:59	CELERY_ROOT_ROOT	mother	2	yes	zoo
+1134	28012005	28/01/2020	2.50	25/03/2017	Martok	2.8	3	male	Raja	Raja	14:07	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1135	29012001	29/01/2020	1.75	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	11:37	CELERY_ROOT_ROOT	mother	2	yes	zoo
+1136	29012002	29/01/2020	1.75	25/03/2017	Martok	2.8	3	male	Raja	Suaq	11:38	CELERY_ROOT_ROOT	cousin	2	yes	zoo
+1137	29012003	29/01/2020	1.75	25/03/2017	Martok	2.8	3	male	Raja	Suaq	11:40	CELERY_ROOT_ROOT	cousin	2	no	zoo
+1138	29012004	29/01/2020	1.75	25/03/2017	Martok	2.8	3	male	Raja	Raja	11:42	CELERY_ROOT_ROOT	mother	2	yes	zoo
+1139	29012005	29/01/2020	1.75	05/08/2017	Sari	2.5	2.5	female	Padana	Pini	11:44	CELERY_ROOT_ROOT	grandmother	2	no	zoo
+1140	30012001	30/01/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:38	BEETROOT_ROOT	mother	2	no	zoo
+1141	30012002	30/01/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Suaq	13:43	WILLOW_LEAVES_LV	cousin	0	no	zoo
+1142	30012003	30/01/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:53	CELERY_ROOT_PIECE_ROOT	mother	0	yes	zoo
+1143	30012004	30/01/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	13:59	WILLOW_LEAVES_LV	mother	0	no	zoo
+1144	30012005	30/01/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	14:01	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1145	30012006	30/01/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Raja	14:02	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1146	30012007	30/01/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	14:18	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1147	31012001	31/01/2020	2.50	25/03/2017	Martok	2.9	3	male	Raja	Raja	11:22	INSECT_IN	mother	0	yes	zoo
+1148	31012002	31/01/2020	2.50	25/03/2017	Martok	2.9	3	male	Raja	Raja	11:24	CELERY_STEM_VE	mother	1	yes	zoo
+1149	31012003	31/01/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Suaq	11:27	CEREAL_OAT	brother	0	no	zoo
+1150	31012004	31/01/2020	2.50	25/03/2017	Martok	2.9	3	male	Raja	Raja	11:35	CHINESE_CABBAGE_VE	mother	0	yes	zoo
+1151	31012005	31/01/2020	2.50	25/03/2017	Martok	2.9	3	male	Raja	Raja	11:41	APPLE_FR	mother	0	yes	zoo
+1152	31012006	31/01/2020	2.50	25/03/2017	Martok	2.9	3	male	Raja	Raja	12:35	CELERY_STEM_VE	mother	1	yes	zoo
+1153	3022001	03/02/2020	2.50	25/03/2017	Martok	2.9	3	male	Raja	Dokana	11:44	CELERY_ROOT_PIECE_ROOT	nonrelevant	0	yes	zoo
+1154	3022002	03/02/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	11:47	CELERY_ROOT_PIECE_ROOT	mother	0	yes	zoo
+1155	3022003	03/02/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	11:54	CELERY_ROOT_PIECE_ROOT	mother	0	yes	zoo
+1156	3022004	03/02/2020	2.50	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	11:58	CELERY_ROOT_PIECE_ROOT	mother	0	yes	zoo
+1157	3022005	03/02/2020	2.50	25/03/2017	Martok	2.9	3	male	Raja	Raja	12:04	CELERY_ROOT_PIECE_ROOT	mother	0	yes	zoo
+1158	5022001	05/02/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	11:37	FENNEL_ROOT	mother	2	yes	zoo
+1159	5022002	05/02/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Raja	11:41	FLOUR_OATMEAL_GRAIN_OAT	mother	0	yes	zoo
+1160	5022003	05/02/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Suaq	11:44	FLOUR_OATMEAL_GRAIN_OAT	brother	0	no	zoo
+1161	5022004	05/02/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Suaq	11:44	FLOUR_OATMEAL_GRAIN_OAT	cousin	0	no	zoo
+1162	5022005	05/02/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Suaq	11:48	FLOUR_OATMEAL_GRAIN_OAT	cousin	0	no	zoo
+1163	5022006	05/02/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Suaq	11:48	FLOUR_OATMEAL_GRAIN_OAT	brother	0	no	zoo
+1164	5022007	05/02/2020	2.00	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	11:55	FLOUR_OATMEAL_GRAIN_OAT	mother	0	yes	zoo
+1165	5022008	05/02/2020	2.00	02/08/2019	Rima	0.5	0.5	female	Pini	Pini	12:00	FENNEL_ROOT	mother	2	yes	zoo
+1166	5022009	05/02/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Raja	12:15	FENNEL_ROOT	mother	2	yes	zoo
+1167	5022010	05/02/2020	2.00	25/03/2017	Martok	2.9	3	male	Raja	Dokana	12:19	FLOUR_OATMEAL_GRAIN_OAT	nonrelevant	0	no	zoo
+1168	7022001	07/02/2020	0.67	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	11:38	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1169	7022002	07/02/2020	0.67	25/03/2017	Martok	2.9	3	male	Raja	Suaq	11:50	SALAD_VE	cousin	0	no	zoo
+1170	7022003	07/02/2020	0.67	05/08/2017	Sari	2.5	2.5	female	Padana	Suaq	11:50	SALAD_VE	cousin	0	no	zoo
+1171	17022001	17/02/2020	1.67	25/03/2017	Martok	2.9	3	male	Raja	Raja	15:37	FLOUR_OATMEAL_GRAIN_OAT	mother	0	no	zoo
+1172	17022002	17/02/2020	1.67	25/03/2017	Martok	2.9	3	male	Raja	Dokana	15:39	FLOUR_OATMEAL_GRAIN_OAT	nonrelevant	0	no	zoo
+1173	17022003	17/02/2020	1.67	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	15:41	FLOUR_OATMEAL_GRAIN_OAT	mother	0	yes	zoo
+1174	17022004	17/02/2020	1.67	25/03/2017	Martok	2.9	3	male	Raja	Padana	15:44	FLOUR_OATMEAL_GRAIN_OAT	aunt	0	no	zoo
+1175	17022005	17/02/2020	1.67	05/08/2017	Sari	2.5	2.5	female	Padana	Raja	15:51	CELERY_ROOT_PIECE_ROOT	aunt	0	no	zoo
+1176	17022006	17/02/2020	1.67	02/08/2019	Rima	0.5	0.5	female	Pini	Pini	15:55	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1177	17022007	17/02/2020	1.67	02/08/2019	Rima	0.5	0.5	female	Pini	Pini	15:57	CHINESE_CABBAGE_VE	mother	0	yes	zoo
+1178	18022001	18/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:42	SALAD_VE	mother	0	yes	zoo
+1179	18022002	18/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:42	SALAD_VE	mother	0	yes	zoo
+1180	18022003	18/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:42	SALAD_VE	mother	0	yes	zoo
+1181	18022004	18/02/2020	2.25	05/08/2017	Sari	2.5	2.5	female	Padana	Raja	13:46	BEETROOT_ROOT	aunt	2	no	zoo
+1182	18022005	18/02/2020	2.25	05/08/2017	Sari	2.5	2.5	female	Padana	Pini	13:49	CELERY_STEM_VE	grandmother	1	yes	zoo
+1183	18022006	18/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:57	WILLOW_LEAVES_LV	mother	0	yes	zoo
+1184	18022007	18/02/2020	2.25	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	14:04	BEETROOT_ROOT	mother	2	yes	zoo
+1185	18022008	18/02/2020	2.25	05/08/2017	Sari	2.5	2.5	female	Padana	Padana	14:05	BEETROOT_ROOT	mother	2	yes	zoo
+1186	26022001	26/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Padana	15:36	COOKED_CARROT_PAPERWRAP_ROOT	aunt	1	no	zoo
+1187	26022002	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Padana	15:37	COOKED_CARROT_PAPERWRAP_ROOT	mother	1	no	zoo
+1188	26022003	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Suaq	15:38	OAK_LEAVES_LV	brother	0	no	zoo
+1189	26022004	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Suaq	15:39	OAK_LEAVES_LV	brother	0	no	zoo
+1190	26022005	26/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Suaq	15:40	OAK_LEAVES_LV	cousin	0	no	zoo
+1191	26022006	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Suaq	15:41	OAK_LEAVES_LV	brother	0	no	zoo
+1192	26022007	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Padana	15:42	OAK_LEAVES_LV	mother	0	yes	zoo
+1193	26022008	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Dokana	15:43	OAK_LEAVES_LV	nonrelevant	0	yes	zoo
+1194	26022009	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Dokana	15:43	OAK_LEAVES_LV	nonrelevant	0	yes	zoo
+1195	26022010	26/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Dokana	15:44	OAK_LEAVES_LV	nonrelevant	0	yes	zoo
+1196	26022011	26/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Dokana	15:44	OAK_LEAVES_LV	nonrelevant	0	no	zoo
+1197	26022012	26/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Dokana	15:45	OAK_LEAVES_LV	nonrelevant	0	no	zoo
+1198	26022013	26/02/2020	2.25	25/03/2017	Martok	2.9	3	male	Raja	Padana	15:45	OAK_LEAVES_LV	aunt	0	no	zoo
+1199	26022014	26/02/2020	2.25	05/08/2017	Sari	2.6	2.5	female	Padana	Suaq	15:59	OAK_LEAVES_LV	brother	0	no	zoo
+1200	27022001	27/02/2020	1.50	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:40	KOHLRABI_ROOT	mother	2	no	zoo
+1201	27022002	27/02/2020	1.50	05/08/2017	Sari	2.6	2.5	female	Padana	Padana	13:46	SALAD_VE	mother	0	yes	zoo
+1202	27022003	27/02/2020	1.50	02/08/2019	Rima	0.6	0.5	female	Pini	Pini	14:12	SALAD_VE	mother	0	yes	zoo
+1203	27022004	27/02/2020	1.50	02/08/2019	Rima	0.6	0.5	female	Pini	Pini	14:17	SALAD_VE	mother	0	no	zoo
+1204	27022005	27/02/2020	1.50	05/08/2017	Sari	2.6	2.5	female	Padana	Pini	14:23	CELERY_STEM_VE	grandmother	1	no	zoo
+1205	27022006	27/02/2020	1.50	05/08/2017	Sari	2.6	2.5	female	Padana	Padana	14:51	CELERY_STEM_VE	mother	1	yes	zoo
+1206	28022001	28/02/2020	1.75	05/08/2017	Sari	2.6	2.5	female	Padana	Padana	13:40	KOHLRABI_ROOT	mother	2	no	zoo
+1207	28022002	28/02/2020	1.75	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:41	BEETROOT_ROOT	mother	2	yes	zoo
+1208	28022003	28/02/2020	1.75	25/03/2017	Martok	2.9	3	male	Raja	Raja	13:48	BEETROOT_ROOT	mother	2	yes	zoo
+1209	28022004	28/02/2020	1.75	05/08/2017	Sari	2.6	2.5	female	Padana	Padana	13:53	LIME_LEAVES_LV	mother	0	no	zoo
+1210	28022005	28/02/2020	1.75	25/03/2017	Martok	2.9	3	male	Raja	Raja	14:37	KOHLRABI_ROOT	mother	2	yes	zoo
