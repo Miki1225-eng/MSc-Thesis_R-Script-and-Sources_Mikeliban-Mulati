@@ -1,10 +1,10 @@
-#The Role of the Mother in Feeding Skill Acquisition in Immature Sumatran Orangutans_RScript_Miki_31.03
+#The Role of the Mother in Feeding Skill Acquisition in Immature Sumatran Orangutans_RScript_Miki_20_05
 #Supervisors: Dr. Caroline Schuppli; Dr. Robert Hepach 
 #########################################################################################################
+#Effects on Begging Success_with wild data set only
 
 # set working directory
 setwd("C:/Users/Miki/Google Drive/Thesis!!!/Plots & R Script")
-
 # read my full table. 
 wild<-read.delim("Subset_wild_ExactAge.txt", header=T, sep="\t",na.strings=c("", "NA"))
 str(wild)

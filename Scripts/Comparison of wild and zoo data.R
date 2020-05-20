@@ -1,5 +1,5 @@
 ############################################################################
-#Part 4: comparison of wild and zoo data sets
+#Part 4: comparison of both wild and zoo data sets
 
 #all the packages I need
 library(Hmisc)

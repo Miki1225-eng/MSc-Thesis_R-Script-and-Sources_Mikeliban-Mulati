@@ -1,4 +1,4 @@
-#For Begging Frequencies, Begging Rates, and Success Rates Computations Only
+#For Begging Frequencies and Begging Rates Computations: with wild data set only
 #################################################################################################
 
 # set working directory
