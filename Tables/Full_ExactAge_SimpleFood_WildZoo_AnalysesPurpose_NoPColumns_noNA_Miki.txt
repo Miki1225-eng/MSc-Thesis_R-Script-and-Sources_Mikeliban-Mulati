@@ -1,4 +1,4 @@
-ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Species_Item_Simple	RelationtoB	ProcessingSteps_Complexity	Success	Site
+ID	FN	Date	FollowHours	DOB	Begger.id	ExactAge	AgeClass	Sex	Mother	Target	Time	FoodItem	RelationtoB	Complexity	Success	Site
 1	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	11:57	AAB_FR	mother	1	no	wild
 2	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	11:58	AAB_FR	mother	1		wild
 3	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	15:47	AAB_FR	mother	1	no	wild
@@ -165,16 +165,16 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 164	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:11	CMG_FR	mother	5	yes	wild
 165	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:17	CMG_FR	mother	5	yes	wild
 166	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:32	CMG_FR	mother	5	yes	wild
-167	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:28	CMG_FR	mother	5	yes	wild
-168	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:44	CMG_FR	mother	5	yes	wild
-169	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:51	CMG_FR	mother	5	yes	wild
-170	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:59	CMG_FR	mother	5	yes	wild
-171	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:07	CMG_FR	mother	5	yes	wild
-172	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:09	CMG_FR	mother	5	yes	wild
-173	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:40	CMG_FR	mother	5	yes	wild
-174	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:44	CMG_FR	mother	5	yes	wild
-175	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:04	CMG_FR	mother	5	yes	wild
-176	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:08	CMG_FR	mother	5	yes	wild
+167	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:28	CMG_FR	mother	5	yes	wild
+168	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:44	CMG_FR	mother	5	yes	wild
+169	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:51	CMG_FR	mother	5	yes	wild
+170	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:59	CMG_FR	mother	5	yes	wild
+171	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:07	CMG_FR	mother	5	yes	wild
+172	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:09	CMG_FR	mother	5	yes	wild
+173	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:40	CMG_FR	mother	5	yes	wild
+174	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:44	CMG_FR	mother	5	yes	wild
+175	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:04	CMG_FR	mother	5	yes	wild
+176	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:08	CMG_FR	mother	5	yes	wild
 177	2351	08/05/2018	5.27	01/01/2013	Pepito	5.4	5.5	male	Piniata	Piniata	07:49	CMG_FR	mother	5	yes	wild
 178	2351	08/05/2018	5.27	01/01/2013	Pepito	5.4	5.5	male	Piniata	Piniata	07:50	CMG_FR	mother	5	yes	wild
 179	1231	07/02/2014	9.53	01/04/2013	Rendang	0.9	1	male	Raffi	Raffi	15:48	DEADWOOD	mother	3	yes	wild
@@ -482,10 +482,10 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 481	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	06:53	RSKU_FR	mother	1	no	wild
 482	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	08:14	RSKU_FR	mother	1	yes	wild
 483	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	13:09	RSKU_FR	mother	1	yes	wild
-484	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	1	no	wild
-485	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	1	no	wild
-486	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	1	no	wild
-487	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	1	no	wild
+484	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	1	no	wild
+485	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	1	no	wild
+486	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	1	no	wild
+487	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	1	no	wild
 488	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	15:08	RTKS_LV	mother	1	no	wild
 489	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:20	RTKS_LV	mother	1	yes	wild
 490	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	16:02	RTKS_LV	mother	1	no	wild
@@ -689,7 +689,7 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 688	2211	10/01/2018	11.57	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	14:35	UNK	mother		yes	wild
 689	2225	31/01/2018	7.55	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	12:06	UNK	mother			wild
 690	2225	31/01/2018	7.55	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	12:06	UNK	mother		no	wild
-691	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:57	UNK	mother		yes	wild
+691	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:57	UNK	mother		yes	wild
 692	2359	12/05/2018	11.33	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:10	UNK	mother		no	wild
 693	2360	18/05/2018	8.77	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:00	UNK	mother			wild
 694	2383	02/06/2018	11.30	01/07/2010	Lois	7.9	8	male	Lisa	Lisa	09:28	UNK	mother			wild
@@ -720,7 +720,7 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 719	1981	12/06/2017	12.73	01/08/2012	Frankie	4.9	5	male	Friska	Friska	10:37	UNK_IN	mother	2.5	no	wild
 720	2005	25/06/2017	11.68	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	16:05	UNK_IN	mother	2.5	no	wild
 721	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	16:35	UNK_IN	mother	2.5	no	wild
-722	2036	10/07/2017		01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	15:50	UNK_IN	mother	2.5	yes	wild
+722	2036	10/07/2017	12.23	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	15:50	UNK_IN	mother	2.5	yes	wild
 723	2159	29/11/2017	7.90	01/08/2012	Frankie	5.3	5.5	male	Friska	Friska	07:16	UNK_IN	mother	2.5	yes	wild
 724	2208	09/01/2018	12.17	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	16:30	UNK_IN	mother	2.5	no	wild
 725	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:01	UNK_IN	mother	2.5	no	wild
@@ -742,7 +742,7 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 741	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:29	UNK_VE	mother	4	yes	wild
 742	1283	12/03/2014	12.18	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	13:45	UNK_VE	mother	4	yes	wild
 743	1302	24/03/2014	11.80	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:23	UNK_VE	mother	4	yes	wild
-744	1304	25/03/2014		01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:46	UNK_VE	mother	4	no	wild
+744	1304	25/03/2014	10.47	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:46	UNK_VE	mother	4	no	wild
 745	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	11:38	UNK_VE	mother	4	yes	wild
 746	752	15/02/2011	11.97	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:00	UNK_LV	mother	0	yes	wild
 747	991	03/06/2013	5.80	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	17:15	UNK_LV	mother	0	no	wild

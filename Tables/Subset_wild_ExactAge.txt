@@ -1,4 +1,4 @@
-ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Species_Item_Simple	RelationtoB	TargetRelation	ProcessingSteps_Complexity	PopFreq_Rarity	Success
+ID	FN	Date	FollowHours	DOB	Begger.id	ExactAge	AgeClass	Sex	Mother	Target	Time	FoodItem	RelationtoB	TargetRelation	Complexity	Rarity	Success
 1	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	11:57	AAB_FR	mother	mother	1	0.001498066	no
 2	2013	01/07/2017	11.72	01/04/2012	Cinnamon	5.3	5.5	female	Cissy	Cissy	11:58	AAB_FR	mother	mother	1	0.001498066	
 3	2294	12/03/2018	11.83	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	15:47	AAB_FR	mother	mother	1	0.001498066	no
@@ -165,16 +165,16 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 164	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:11	CMG_FR	mother	mother	5	0.030628831	yes
 165	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:17	CMG_FR	mother	mother	5	0.030628831	yes
 166	2308	18/03/2018	10.62	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	16:32	CMG_FR	mother	mother	5	0.030628831	yes
-167	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:28	CMG_FR	mother	mother	5	0.030628831	yes
-168	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:44	CMG_FR	mother	mother	5	0.030628831	yes
-169	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:51	CMG_FR	mother	mother	5	0.030628831	yes
-170	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:59	CMG_FR	mother	mother	5	0.030628831	yes
-171	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:07	CMG_FR	mother	mother	5	0.030628831	yes
-172	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:09	CMG_FR	mother	mother	5	0.030628831	yes
-173	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:40	CMG_FR	mother	mother	5	0.030628831	yes
-174	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:44	CMG_FR	mother	mother	5	0.030628831	yes
-175	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:04	CMG_FR	mother	mother	5	0.030628831	yes
-176	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:08	CMG_FR	mother	mother	5	0.030628831	yes
+167	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:28	CMG_FR	mother	mother	5	0.030628831	yes
+168	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:44	CMG_FR	mother	mother	5	0.030628831	yes
+169	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:51	CMG_FR	mother	mother	5	0.030628831	yes
+170	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	07:59	CMG_FR	mother	mother	5	0.030628831	yes
+171	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:07	CMG_FR	mother	mother	5	0.030628831	yes
+172	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	08:09	CMG_FR	mother	mother	5	0.030628831	yes
+173	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:40	CMG_FR	mother	mother	5	0.030628831	yes
+174	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:44	CMG_FR	mother	mother	5	0.030628831	yes
+175	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:04	CMG_FR	mother	mother	5	0.030628831	yes
+176	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:08	CMG_FR	mother	mother	5	0.030628831	yes
 177	2351	08/05/2018	5.27	01/01/2013	Pepito	5.4	5.5	male	Piniata	Piniata	07:49	CMG_FR	mother	mother	5	0.030628831	yes
 178	2351	08/05/2018	5.27	01/01/2013	Pepito	5.4	5.5	male	Piniata	Piniata	07:50	CMG_FR	mother	mother	5	0.030628831	yes
 179	1231	07/02/2014	9.53	01/04/2013	Rendang	0.9	1	male	Raffi	Raffi	15:48	DEADWOOD	mother	mother	3	4.07637E-05	yes
@@ -482,10 +482,10 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 481	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	06:53	RSKU_FR	mother	mother	1	0.008539997	no
 482	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	08:14	RSKU_FR	mother	mother	1	0.008539997	yes
 483	1038	23/06/2013	12.13	01/08/2012	Frankie	0.9	1	male	Friska	Friska	13:09	RSKU_FR	mother	mother	1	0.008539997	yes
-484	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	mother	1	0.008539997	no
-485	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	mother	1	0.008539997	no
-486	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	mother	1	0.008539997	no
-487	2075	02/08/2017		01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	mother	1	0.008539997	no
+484	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	mother	1	0.008539997	no
+485	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	mother	1	0.008539997	no
+486	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:10	RSKU_FR	mother	mother	1	0.008539997	no
+487	2075	02/08/2017	12.27	01/02/2016	Luther	1.5	1.5	male	Lilly	Lilly	11:20	RSKU_FR	mother	mother	1	0.008539997	no
 488	735	08/02/2011	10.70	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	15:08	RTKS_LV	mother	mother	1	0.001029284	no
 489	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	13:20	RTKS_LV	mother	mother	1	0.001029284	yes
 490	750	14/02/2011	11.63	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	16:02	RTKS_LV	mother	mother	1	0.001029284	no
@@ -689,7 +689,7 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 688	2211	10/01/2018	11.57	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	14:35	UNK	mother	mother		0.000835656	yes
 689	2225	31/01/2018	7.55	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	12:06	UNK	mother	mother		0.000835656	
 690	2225	31/01/2018	7.55	01/08/2012	Frankie	5.5	5.5	male	Friska	Friska	12:06	UNK	mother	mother		0.000835656	no
-691	2312	20/03/2018		01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:57	UNK	mother	mother		0.000835656	yes
+691	2312	20/03/2018	9.00	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	10:57	UNK	mother	mother		0.000835656	yes
 692	2359	12/05/2018	11.33	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	14:10	UNK	mother	mother		0.000835656	no
 693	2360	18/05/2018	8.77	01/11/2014	Eden	3.5	3.5	female	Ellie	Ellie	12:00	UNK	mother	mother		0.000835656	
 694	2383	02/06/2018	11.30	01/07/2010	Lois	7.9	8	male	Lisa	Lisa	09:28	UNK	mother	mother		0.000835656	
@@ -720,7 +720,7 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 719	1981	12/06/2017	12.73	01/08/2012	Frankie	4.9	5	male	Friska	Friska	10:37	UNK_IN	mother	mother	2.5	0.000214009	no
 720	2005	25/06/2017	11.68	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	16:05	UNK_IN	mother	mother	2.5	0.000214009	no
 721	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	16:35	UNK_IN	mother	mother	2.5	0.000214009	no
-722	2036	10/07/2017		01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	15:50	UNK_IN	mother	mother	2.5	0.000214009	yes
+722	2036	10/07/2017	12.23	01/11/2014	Eden	2.7	2.5	female	Ellie	Ellie	15:50	UNK_IN	mother	mother	2.5	0.000214009	yes
 723	2159	29/11/2017	7.90	01/08/2012	Frankie	5.3	5.5	male	Friska	Friska	07:16	UNK_IN	mother	mother	2.5	0.000214009	yes
 724	2208	09/01/2018	12.17	01/11/2014	Eden	3.2	3	female	Ellie	Ellie	16:30	UNK_IN	mother	mother	2.5	0.000214009	no
 725	2291	11/03/2018	11.42	01/08/2012	Frankie	5.6	5.5	male	Friska	Friska	13:01	UNK_IN	mother	mother	2.5	0.000214009	no
@@ -742,7 +742,7 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 741	1031	20/06/2013	10.77	01/08/2012	Frankie	0.9	1	male	Friska	Friska	14:29	UNK_VE	mother	mother	4	0.000601265	yes
 742	1283	12/03/2014	12.18	01/07/2010	Lois	3.7	3.5	male	Lisa	Lisa	13:45	UNK_VE	mother	mother	4	0.000601265	yes
 743	1302	24/03/2014	11.80	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:23	UNK_VE	mother	mother	4	0.000601265	yes
-744	1304	25/03/2014		01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:46	UNK_VE	mother	mother	4	0.000601265	no
+744	1304	25/03/2014	10.47	01/04/2013	Rendang	1.0	1	male	Raffi	Raffi	14:46	UNK_VE	mother	mother	4	0.000601265	no
 745	2011	30/06/2017	11.33	01/04/2012	Cinnamon	5.2	5	female	Cissy	Cissy	11:38	UNK_VE	mother	mother	4	0.000601265	yes
 746	752	15/02/2011	11.97	01/07/2010	Lois	0.6	0.5	male	Lisa	Lisa	12:00	UNK_LV	mother	mother	0	0.00115667	yes
 747	991	03/06/2013	5.80	01/07/2010	Lois	2.9	3	male	Lisa	Lisa	17:15	UNK_LV	mother	mother	0	0.00115667	no
@@ -1123,13 +1123,13 @@ ID	FN	Date	FollowHours	DOB	Beggar	ExactAge	AgeClass	Sex	Mother	Target	Time	Speci
 1255	2654	10/05/2019	1.08	01/08/2012	Frankie	6.8	7	male	Friska	Friska	17:24	UNK_IN	mother	mother	2.5	0.000214009	yes
 1256	2654	10/05/2019	1.08	01/08/2012	Frankie	6.8	7	male	Friska	Friska	17:25	UNK_IN	mother	mother	2.5	0.000214009	yes
 1257	2654	10/05/2019	1.08	01/08/2012	Frankie	6.8	7	male	Friska	Friska	17:27	UNK_IN	mother	mother	2.5	0.000214009	yes
-1258	2669	15/05/2019		01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	11:19	UNK_IN	mother	mother	2.5	0.000214009	no
-1259	2669	15/05/2019		01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	11:20	UNK_IN	mother	mother	2.5	0.000214009	no
-1260	2669	15/05/2019		01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	15:00	UNK_IN	mother	mother	2.5	0.000214009	no
-1261	2669	15/05/2019		01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	15:06	UNK_IN	mother	mother	2.5	0.000214009	no
-1262	2669	15/05/2019		01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	16:32	TMPGRW_FR	mother	mother	3	0.00016815	no
-1263	2669	15/05/2019		01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	16:32	TMPGRW_FR	mother	mother	3	0.00016815	yes
-1264	2669	15/05/2019		01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	17:07	TMPGRW_FR	mother	mother	3	0.00016815	
+1258	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	11:19	UNK_IN	mother	mother	2.5	0.000214009	no
+1259	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	11:20	UNK_IN	mother	mother	2.5	0.000214009	no
+1260	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	15:00	UNK_IN	mother	mother	2.5	0.000214009	no
+1261	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	15:06	UNK_IN	mother	mother	2.5	0.000214009	no
+1262	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	16:32	TMPGRW_FR	mother	mother	3	0.00016815	no
+1263	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	16:32	TMPGRW_FR	mother	mother	3	0.00016815	yes
+1264	2669	15/05/2019	7.82	01/11/2014	Eden	4.5	4.5	female	Ellie	Ellie	17:07	TMPGRW_FR	mother	mother	3	0.00016815	
 1265	2809	01/10/2019	10.93	01/08/2012	Frankie	7.2	7	male	Friska	Friska	07:18	RAYAP_IN	mother	mother	3	0.086011424	yes
 1266	2831	22/10/2019	7.43	01/11/2014	Eden	5.0	5	female	Ellie	Ellie	12:34	RAYAP_IN	mother	mother	3	0.086011424	yes
 1267	2834	27/10/2019	8.42	01/11/2014	Eden	5.0	5	female	Ellie	Ellie	11:20	UNK_IN	mother	mother	2.5	0.000214009	yes
