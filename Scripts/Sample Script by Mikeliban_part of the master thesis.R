@@ -157,7 +157,10 @@ round(summary(interaction)$coefficients,3)
 summary(interaction)$varcor
 
 # get CIs
-confint.merMod(object=interaction)
+sesgen<-diag(vcov(interaction)))
+# table of estimates with 95% CI
+tabgen<- cbind(Est= fixef(interaction), LL = fixef(interaction) - 1.96 * sesgen, UL = fixef(interaction) + 1.96 *sesgen)
+exp(tabgen)
 
 # plot the significant results: Age, complexity and the interaction between age and sex. 
 plot(allEffects(interaction), ylab="Probability of Begging Success", selection=1)
